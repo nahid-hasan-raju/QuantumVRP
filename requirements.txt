@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+psutil
+tqdm
+scipy
+qiskit>=1.0
+qiskit-optimization
+qiskit-algorithms
+hashable_list
+ordered_set
