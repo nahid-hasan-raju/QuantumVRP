@@ -1,0 +1,2637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2501324284",
+      "properties": {
+        "@id": "node/2501324284",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3542",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "cafe",
+        "branch": "Albersons Santa Fe 986",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "06:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+1 505-471-9028",
+        "ref": "18531",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/18531/albersons-santa-fe-986-3542-zafarano-drive-santa-fe-nm-875072606-us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0131818,
+              35.6410659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4411999189",
+      "properties": {
+        "@id": "node/4411999189",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "100",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East San Francisco Street",
+        "alt_name": "French Pastry Shop & Cr\u00eaperie",
+        "amenity": "cafe",
+        "cuisine": "crepe;cake;sandwich;french;bakery",
+        "facebook": "302575386445265",
+        "instagram": "the_french_pastryshop",
+        "name": "The French Pastry Shop and Cr\u00eaperie",
+        "name:en": "The French Pastry Shop and Cr\u00eaperie",
+        "opening_hours": "Mo-Su 06:30-17:00",
+        "operator": "Sarkis Zadeyan;Yannik Zadeyan",
+        "phone": "+1 505 983 6697",
+        "source": "https://santafenewmexican.com/article_64c848f1-339d-5edf-b51e-3ee75fbf9a06.html",
+        "start_date": "1974",
+        "was:operator": "George Zadeyan;Nancy Zadeyan",
+        "website": "https://thefrenchpastryshop.com",
+        "wikidata": "Q135961581",
+        "wikimedia_commons": "Category:The French Pastry Shop and Cr\u00eaperie",
+        "yelp": "french-pastry-shop-santa-fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9377747,
+              35.6867758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4578307592",
+      "properties": {
+        "@id": "node/4578307592",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "327",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Garcia Street",
+        "amenity": "cafe",
+        "capacity:covid19": "no terrace",
+        "cuisine": "coffee_shop",
+        "facebook": "downtownsubscription",
+        "internet_access": "wlan",
+        "name": "Downtown Subscription",
+        "opening_hours": "Mo-Su 07:00-16:00",
+        "opening_hours:covid19": "restricted",
+        "outdoor_seating": "terrace",
+        "phone": "+1-505-983-3085",
+        "wikidata": "Q135902322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.933543,
+              35.6805697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4578345320",
+      "properties": {
+        "@id": "node/4578345320",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "839",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "addr:unit": "L",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Travel Bug",
+        "opening_hours": "Mo-Sa 07:30-17:30; Su 11:00-14:00",
+        "website": "https://www.mapsofnewmexico.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9337464,
+              35.6854465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4582185510",
+      "properties": {
+        "@id": "node/4582185510",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "217",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West San Francisco Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Henry & The Fish Cafe",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.941282,
+              35.6878011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4691597021",
+      "properties": {
+        "@id": "node/4691597021",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "821",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West San Mateo Road",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "cuisine": "bakery;chocolate",
+        "description": "An independent, homestyle bakery in Santa Fe, NM serving homemade pastries, cookies, cakes and more.",
+        "email": "mavenorder@gmail.com",
+        "name": "Chocolate Maven",
+        "opening_hours": "Mo-Sa 08:00-16:00; Su 08:00-14:00",
+        "website": "https://www.chocolatemaven.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9624414,
+              35.6619244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4698862290",
+      "properties": {
+        "@id": "node/4698862290",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3001",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "cafe",
+        "branch": "Albertsons Santa Fe 987",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "phone": "+1 505-992-8663",
+        "ref": "15778",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/15778/albertsons-santa-fe-987-3001-s-st-francis-drive-santa-fe-nm-875056964-us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9550767,
+              35.6458351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4771034422",
+      "properties": {
+        "@id": "node/4771034422",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3550",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "cafe",
+        "branch": "Target Santa Fe 1034",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "08:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1 505-471-9600",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/114077/target-santa-fe-1034-3550-zafarano-dr-santa-fe-nm-87507-us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0130254,
+              35.6391757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4773515961",
+      "properties": {
+        "@id": "node/4773515961",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1100",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Don Diego Avenue",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop;sandwich;tea",
+        "internet_access": "wlan",
+        "name": "Dulce Capital",
+        "opening_hours": "Mo-Sa 07:00-17:00",
+        "phone": "+1-505-989-9966",
+        "website": "https://www.dulcecapital.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9487894,
+              35.6731065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4960743521",
+      "properties": {
+        "@id": "node/4960743521",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "222",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "disused:cuisine": "gastropub",
+        "internet_access": "yes",
+        "name": "Remix Audio Bar",
+        "old_name": "Fires & Hops (closed)",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.944361,
+              35.6898726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5094932411",
+      "properties": {
+        "@id": "node/5094932411",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "38",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Burro Alley",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Chan\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9408237,
+              35.6879363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106056913",
+      "properties": {
+        "@id": "node/5106056913",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "191",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "addr:unit": "EOA",
+        "amenity": "cafe",
+        "branch": "DeVargas Center - Santa Fe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2023-06-06",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "phone": "+1 505-982-2770",
+        "ref": "9134",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/9134/de-vargas-center-santa-fe-191-paseo-de-peralta-suite-eoa-santa-fe-nm-8750118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.95108,
+              35.6919902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5115613962",
+      "properties": {
+        "@id": "node/5115613962",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1606",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Alcaldesa Street",
+        "amenity": "cafe",
+        "cuisine": "snack",
+        "name": "Violet Crown Cafe",
+        "outdoor_seating": "yes",
+        "website": "https://santafe.violetcrown.com/menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9490319,
+              35.6831696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5419136145",
+      "properties": {
+        "@id": "node/5419136145",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "851",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West San Mateo Road",
+        "addr:unit": "7",
+        "amenity": "cafe",
+        "cuisine": "chocolate",
+        "name": "Kakawa Chocolate",
+        "old_name": "Verde Juice Company",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9635257,
+              35.6616999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5538676861",
+      "properties": {
+        "@id": "node/5538676861",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "333",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "addr:unit": "C",
+        "amenity": "cafe",
+        "cuisine": "french;pastry",
+        "internet_access": "no",
+        "name": "Clafoutis",
+        "opening_hours": "Mo-Sa 07:00-15:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-505-988-1809",
+        "website": "https://www.clafoutis.biz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9480952,
+              35.6722987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5857546815",
+      "properties": {
+        "@id": "node/5857546815",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "101",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "amenity": "cafe",
+        "name": "Catch Santa Fe Poke Co",
+        "old_name": "La Lecheria Downtown",
+        "was:amenity": "ice_cream",
+        "was:opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-20:00",
+        "was:outdoor_seating": "yes",
+        "was:phone": "1-505-205-1595",
+        "was:takeaway": "yes",
+        "was:website": "https://www.lalecherianm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9377311,
+              35.6894175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6479424641",
+      "properties": {
+        "@id": "node/6479424641",
+        "amenity": "cafe",
+        "cuisine": "american;mexican;coffee_shop;burger",
+        "fast_food": "cafeteria",
+        "opening_hours": "07:00-14:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0251962,
+              35.6163726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6493401342",
+      "properties": {
+        "@id": "node/6493401342",
+        "addr:city": "Santa Fe",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "amenity": "cafe",
+        "cuisine": "mexican;american;sandwich;coffee_shop",
+        "name": "Roundhouse Cafe",
+        "opening_hours": "Mo-Sa 07:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9398903,
+              35.6824651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6499062089",
+      "properties": {
+        "@id": "node/6499062089",
+        "addr:city": "Santa Fe",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;coffee;tea;burger;sandwich;breakfast",
+        "name": "Peterson Coffee Shop",
+        "outdoor_seating": "yes",
+        "website": "https://campus-dining.com/sjc/peterson-coffee-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9123808,
+              35.6669815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6499128574",
+      "properties": {
+        "@id": "node/6499128574",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "name": "Java Joe's",
+        "opening_hours": "Mo-Su 07:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-474-5282",
+        "website": "https://java-joes-online.square.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9830313,
+              35.6388959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6503993930",
+      "properties": {
+        "@id": "node/6503993930",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "199D",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "email": "paradisebobatea22@gmail.com",
+        "name": "Paradise Boba Tea",
+        "old_name": "Light Vessel Medispa",
+        "old_shop": "massage",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "phone": "+1-505-930-5924",
+        "planned:amenity": "cafe",
+        "start_date": "2022-06-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.949183,
+              35.6928843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6516878778",
+      "properties": {
+        "@id": "node/6516878778",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "314",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Guadalupe Street",
+        "amenity": "cafe",
+        "check_date": "2024-02-23",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Iconik Lupe",
+        "opening_hours": "Mo-Su 07:30-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-428-0669",
+        "shop": "coffee",
+        "website": "https://iconikcoffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9454353,
+              35.6864279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6536030576",
+      "properties": {
+        "@id": "node/6536030576",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "905",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Alameda Street",
+        "amenity": "cafe",
+        "brand": "Stumptown",
+        "cuisine": "coffee_shop;new_mexican;coffee;burrito",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "loc_name": "Betterday Coffee",
+        "name": "The Betterday Coffee House",
+        "outdoor_seating": "yes",
+        "website": "https://thebetterday.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9581547,
+              35.689336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6559263170",
+      "properties": {
+        "@id": "node/6559263170",
+        "addr:housenumber": "505",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "B2",
+        "amenity": "cafe",
+        "check_date": "2023-06-06",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Ohori's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9448395,
+              35.6822431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6559263171",
+      "properties": {
+        "@id": "node/6559263171",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "202",
+        "addr:state": "NM",
+        "addr:street": "Galisteo Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Iconik Collected Works"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.941058,
+              35.6867125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577793109",
+      "properties": {
+        "@id": "node/6577793109",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4250",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "1116",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Anime Cafe",
+        "ref": "1116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0148559,
+              35.6363443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612559270",
+      "properties": {
+        "@id": "node/6612559270",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "130",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Lincoln Avenue",
+        "addr:unit": "B",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;gelato",
+        "name": "Cafe des Artistes",
+        "opening_date": "2020-04-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9386067,
+              35.6888052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612581271",
+      "properties": {
+        "@id": "node/6612581271",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "301",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "cafe",
+        "cuisine": "kava",
+        "name": "Roots And Leaves Kava Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.944607,
+              35.6910393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953460",
+      "properties": {
+        "@id": "node/6626953460",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3470",
+        "addr:street": "Zafarano Drive",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;new_mexican;mexican;italian",
+        "internet_access": "yes",
+        "name": "Tribes",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.016624,
+              35.6423183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6630005503",
+      "properties": {
+        "@id": "node/6630005503",
+        "addr:city": "Santa Fe",
+        "addr:state": "NM",
+        "amenity": "cafe",
+        "cuisine": "tea;bubble_tea",
+        "name": "Boba Tea Company",
+        "ref": "1128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0144876,
+              35.6362472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6630369302",
+      "properties": {
+        "@id": "node/6630369302",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "226",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "cafe",
+        "cuisine": "bakery;smoothie;american;mexican;bagel",
+        "name": "Boultawn's Bagelry, Caf\u00e9 & Gallery",
+        "website": "https://boultawns.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.944809,
+              35.6902934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6636179999",
+      "properties": {
+        "@id": "node/6636179999",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1310",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;bakery",
+        "drive_through": "yes",
+        "email": "santafebaked@gmail.com",
+        "former:shop": "car",
+        "name": "Baked & Brew",
+        "old_name": "Sweet Motors",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "outdoor_seating": "yes",
+        "phone": "+15059541346",
+        "planned:amenity": "cafe",
+        "planned:shop": "bakery",
+        "website": "https://sfbakedandbrew.com/",
+        "website:menu": "https://sfbakedandbrew.com/santa-fe-baked-and-brew-food-menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.962385,
+              35.6718718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696513077",
+      "properties": {
+        "@id": "node/6696513077",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1600",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Lena Street",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;regional;bakery",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "internet_access": "yes",
+        "name": "Iconik Lena",
+        "opening_hours": "07:30-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-428-0996",
+        "website": "https://shop.iconikcoffee.com/pages/iconik-lena",
+        "website:menu": "https://www.clover.com/online-ordering/iconik-lena",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9642998,
+              35.6650785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708536859",
+      "properties": {
+        "@id": "node/6708536859",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "The Coffee & Snack Shop",
+        "name_1": "101 Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0386929,
+              35.6269381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708868445",
+      "properties": {
+        "@id": "node/6708868445",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;ice_cream;burrito;donut;juice;tamales;pastry",
+        "name": "Cafe Fresh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9490353,
+              35.6822874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6711106758",
+      "properties": {
+        "@id": "node/6711106758",
+        "amenity": "cafe",
+        "general": "bodega",
+        "name": "Madame Matisse",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9742178,
+              35.6649079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6713337028",
+      "properties": {
+        "@id": "node/6713337028",
+        "addr:housenumber": "100",
+        "addr:street": "East San Francisco Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Wake Up Call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9377109,
+              35.6864513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6796090967",
+      "properties": {
+        "@id": "node/6796090967",
+        "addr:housenumber": "922",
+        "addr:street": "Shoofly Street",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "cuisine": "argentinian",
+        "internet_access": "wlan",
+        "name": "Cafecito",
+        "website": "https://www.cafecitosantafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.962071,
+              35.6750255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7180653534",
+      "properties": {
+        "@id": "node/7180653534",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "101",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "addr:unit": "201",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "description": "Upstairs",
+        "level": "1",
+        "name": "Remix Audio Bar",
+        "outdoor_seating": "no",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9376301,
+              35.6894469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7238437423",
+      "properties": {
+        "@id": "node/7238437423",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1700",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "A-118",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "Mizu Boba Tea Spot",
+        "old_shop": "second_hand",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "phone": "+1-505-690-7081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.97184,
+              35.6571914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8045840920",
+      "properties": {
+        "@id": "node/8045840920",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9435304,
+              35.6884588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8982760958",
+      "properties": {
+        "@id": "node/8982760958",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "810",
+        "addr:state": "NM",
+        "addr:street": "Calle Mejia",
+        "addr:unit": "107",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;smoothie",
+        "name": "Renewal Life Bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9503634,
+              35.701822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9279223256",
+      "properties": {
+        "@id": "node/9279223256",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1248",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Siler Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Java Joe's",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa 08:00-13:00",
+        "phone": "+1-505-930-5763",
+        "website": "http://www.javajoessantafenm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9935192,
+              35.6586823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9673044675",
+      "properties": {
+        "@id": "node/9673044675",
+        "addr:housenumber": "105",
+        "addr:street": "East Marcy Street",
+        "addr:unit": "C",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "The Mud Hut by Agapao Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.936469,
+              35.6890551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9696933874",
+      "properties": {
+        "@id": "node/9696933874",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.996834,
+              35.6546888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445735",
+      "properties": {
+        "@id": "node/9753445735",
+        "addr:housenumber": "1722",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "D",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "Bubble King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9720872,
+              35.658377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9844800922",
+      "properties": {
+        "@id": "node/9844800922",
+        "addr:housenumber": "312",
+        "addr:street": "Montezuma Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "cmbcoffeeshop@gmail.com",
+        "name": "Crash Murder Business",
+        "opening_hours": "Mo-Fr 07:30-16:00; Sa 09:00-16:00 Su 09:00-15:00",
+        "outdoor_seating": "yes",
+        "toilets": "customers",
+        "website": "https://cmbcoffeeshop.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.94475,
+              35.6846402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10092527917",
+      "properties": {
+        "@id": "node/10092527917",
+        "amenity": "cafe",
+        "cuisine": "crepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0097588,
+              35.6447142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10148645587",
+      "properties": {
+        "@id": "node/10148645587",
+        "amenity": "cafe",
+        "cuisine": "crepe",
+        "name": "Crepas-oh",
+        "opening_hours": "Mo-Sa 08:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0098815,
+              35.6450116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10254768920",
+      "properties": {
+        "@id": "node/10254768920",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "600",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe",
+        "amenity": "cafe",
+        "branch": "Albertsons Santa Fe 927",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "phone": "+1 505-982-4668",
+        "ref": "11278",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/11278/albertsons-santa-fe-927-600-n-guadalupe-santa-fe-nm-875011456-us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9510804,
+              35.693716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10863915953",
+      "properties": {
+        "@id": "node/10863915953",
+        "addr:housenumber": "720",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "F",
+        "amenity": "cafe",
+        "name": "FitMania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9607533,
+              35.6574191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11335688036",
+      "properties": {
+        "@id": "node/11335688036",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "229",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Johnson Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Fusion Delicias Cafe",
+        "old_name": "Santarepa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9417125,
+              35.689255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11755492906",
+      "properties": {
+        "@id": "node/11755492906",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "730",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "5T",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Sagche's Coffee House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.961179,
+              35.6586122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11917024630",
+      "properties": {
+        "@id": "node/11917024630",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Churro Bar",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9387154,
+              35.6856026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12077566454",
+      "properties": {
+        "@id": "node/12077566454",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1221",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Flagman Way",
+        "addr:unit": "B5",
+        "amenity": "cafe",
+        "animals": "yes",
+        "email": "info@santafecatcafe.com",
+        "name": "Turquoise Teapot and Cat Cafe",
+        "opening_hours": "Tu-Th 10:00-17:00; Fr-Su 10:00-16:00",
+        "species": "Felis catus",
+        "theme": "cat",
+        "website": "https://www.santafecatcafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9618861,
+              35.6743695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12162448792",
+      "properties": {
+        "@id": "node/12162448792",
+        "addr:housenumber": "1424",
+        "addr:street": "4th Street",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9709215,
+              35.6645255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12539146969",
+      "properties": {
+        "@id": "node/12539146969",
+        "addr:housenumber": "4250",
+        "addr:street": "Cerrillos Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Barnes and Noble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0135674,
+              35.6365747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12955159669",
+      "properties": {
+        "@id": "node/12955159669",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "13",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Angel's Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0253251,
+              35.6379636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13591780989",
+      "properties": {
+        "@id": "node/13591780989",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1302",
+        "addr:postcode": "87505-3366",
+        "addr:state": "NM",
+        "addr:street": "Osage Avenue",
+        "addr:unit": "A1",
+        "amenity": "cafe",
+        "check_date": "2026-02-23",
+        "contact:facebook": "https://www.facebook.com/p/Capital-city-nutrition-100063651304777",
+        "cuisine": "smoothie;juice;tea;coffee",
+        "currency:XBT": "yes",
+        "diet:healthy": "yes",
+        "name": "Capital City Nutrition",
+        "opening_hours": "Tu-Fr 08:00-14:00; Sa-Su 09:00-12:00",
+        "payment:lightning": "yes",
+        "payment:lightning:operator": "square",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
+        "phone": "+1-505-780-5092",
+        "website": "https://capital-city-nutrition-protein-smoothie-bar.grubbio.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.977786,
+              35.6635831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208182561",
+      "properties": {
+        "@id": "way/208182561",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "3899",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "cafe",
+        "branch": "Cerrillos & Zafarano, Santa Fe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "phone": "+1 505-474-5766",
+        "ref": "11035",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/11035/cerrillos-zafarano-santa-fe-3899-cerrillos-road-santa-fe-nm-875074151-us"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0128191,
+              35.6429301
+            ],
+            [
+              -106.0126804,
+              35.6427775
+            ],
+            [
+              -106.0127481,
+              35.6427368
+            ],
+            [
+              -106.0128868,
+              35.6428894
+            ],
+            [
+              -106.0128191,
+              35.6429301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370485405",
+      "properties": {
+        "@id": "way/370485405",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "710",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Camino Lejo",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Museum Hill Cafe",
+        "opening_hours": "Tu-Su 11:00-15:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-984-8900",
+        "website": "https://www.museumhillcafe.net/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9255063,
+              35.6647737
+            ],
+            [
+              -105.9255397,
+              35.6648195
+            ],
+            [
+              -105.9256001,
+              35.6648313
+            ],
+            [
+              -105.9255715,
+              35.6649126
+            ],
+            [
+              -105.9255356,
+              35.6649053
+            ],
+            [
+              -105.9255313,
+              35.6649005
+            ],
+            [
+              -105.9255092,
+              35.6649106
+            ],
+            [
+              -105.9255232,
+              35.6649254
+            ],
+            [
+              -105.9254323,
+              35.6649674
+            ],
+            [
+              -105.9254179,
+              35.6649452
+            ],
+            [
+              -105.9253886,
+              35.6649006
+            ],
+            [
+              -105.9253845,
+              35.6648942
+            ],
+            [
+              -105.925365,
+              35.6649036
+            ],
+            [
+              -105.9253372,
+              35.6648671
+            ],
+            [
+              -105.9253317,
+              35.6648599
+            ],
+            [
+              -105.9254006,
+              35.664824
+            ],
+            [
+              -105.9254051,
+              35.6648293
+            ],
+            [
+              -105.9254418,
+              35.6648132
+            ],
+            [
+              -105.9254381,
+              35.664806
+            ],
+            [
+              -105.9255063,
+              35.6647737
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/426290025",
+      "properties": {
+        "@id": "way/426290025",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4960",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Promenade Boulevard",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "contact:website": "https://www.starbucks.com/store-locator/store/1005768/cerrillos-las-soleras-4960-promenade-boulevard-santa-fe-nm-875075501-us",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0287641,
+              35.619456
+            ],
+            [
+              -106.0285691,
+              35.6193715
+            ],
+            [
+              -106.0286134,
+              35.6193032
+            ],
+            [
+              -106.0288096,
+              35.6193848
+            ],
+            [
+              -106.0287641,
+              35.619456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461791423",
+      "properties": {
+        "@id": "way/461791423",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "637",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Modern General",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "website": "https://moderngeneralnm.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9471097,
+              35.6803746
+            ],
+            [
+              -105.947027,
+              35.6803674
+            ],
+            [
+              -105.9470457,
+              35.6802017
+            ],
+            [
+              -105.9471351,
+              35.6802079
+            ],
+            [
+              -105.9471097,
+              35.6803746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461796143",
+      "properties": {
+        "@id": "way/461796143",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1098",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee;coffee_shop",
+        "drive_through": "yes",
+        "name": "Ohori's",
+        "phone": "+1-505-982-9692"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.954496,
+              35.6762783
+            ],
+            [
+              -105.9543223,
+              35.6761785
+            ],
+            [
+              -105.9544227,
+              35.6760556
+            ],
+            [
+              -105.9544381,
+              35.6760647
+            ],
+            [
+              -105.9544676,
+              35.6760813
+            ],
+            [
+              -105.9544926,
+              35.6760951
+            ],
+            [
+              -105.9544825,
+              35.676107
+            ],
+            [
+              -105.9545219,
+              35.6761272
+            ],
+            [
+              -105.9545625,
+              35.6761382
+            ],
+            [
+              -105.9546054,
+              35.6761629
+            ],
+            [
+              -105.954496,
+              35.6762783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461933475",
+      "properties": {
+        "@id": "way/461933475",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "1609",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Alcaldesa Street",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Sky Coffee",
+        "opening_hours": "08:00-18:00",
+        "outdoor_seating": "yes",
+        "website": "https://skysantafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9483978,
+              35.6831523
+            ],
+            [
+              -105.9483431,
+              35.6831201
+            ],
+            [
+              -105.9484262,
+              35.6830319
+            ],
+            [
+              -105.9484528,
+              35.6830472
+            ],
+            [
+              -105.9484794,
+              35.6830624
+            ],
+            [
+              -105.9483978,
+              35.6831523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461966694",
+      "properties": {
+        "@id": "way/461966694",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "907",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "cafe",
+        "branch": "Saint Francis & Cerrillos",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "phone": "+1 505-982-0061",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/91218/st-francis-cerrillos-907-st-francis-dr-santa-fe-nm-875053060-us"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9535369,
+              35.6789892
+            ],
+            [
+              -105.9535045,
+              35.6789916
+            ],
+            [
+              -105.9534642,
+              35.6789948
+            ],
+            [
+              -105.9534607,
+              35.6789951
+            ],
+            [
+              -105.9534047,
+              35.6789633
+            ],
+            [
+              -105.953395,
+              35.6788997
+            ],
+            [
+              -105.9534229,
+              35.6788623
+            ],
+            [
+              -105.9535091,
+              35.6788539
+            ],
+            [
+              -105.9535369,
+              35.6789892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474731478",
+      "properties": {
+        "@id": "way/474731478",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "780",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "cafe",
+        "branch": "Saint Michaels Drive & Lorca - Santa",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa-Su 06:00-20:00",
+        "phone": "+1 505-570-7686",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1025974/st-michaels-dr-lorca-santa-780-st-michaels-dr-santa-fe-nm-875057703-us"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9627454,
+              35.6591937
+            ],
+            [
+              -105.9626282,
+              35.6591925
+            ],
+            [
+              -105.9626312,
+              35.6590016
+            ],
+            [
+              -105.9627484,
+              35.6590028
+            ],
+            [
+              -105.9627454,
+              35.6591937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475976048",
+      "properties": {
+        "@id": "way/475976048",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1115",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Hickox Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "new_mexican",
+        "diet:meat": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "yes",
+        "name": "Tune Up Cafe",
+        "not:name": "Tuneup Cafe",
+        "old_name": "Dave's Not Here",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+        "organic": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+1 505 9837060",
+        "takeaway": "yes",
+        "website": "https://tuneupsantafe.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9587941,
+              35.681357
+            ],
+            [
+              -105.9588165,
+              35.6813525
+            ],
+            [
+              -105.9588315,
+              35.6814025
+            ],
+            [
+              -105.9586188,
+              35.6814447
+            ],
+            [
+              -105.958606,
+              35.681402
+            ],
+            [
+              -105.9586261,
+              35.681398
+            ],
+            [
+              -105.9586219,
+              35.6813838
+            ],
+            [
+              -105.9586162,
+              35.681385
+            ],
+            [
+              -105.9585936,
+              35.6813098
+            ],
+            [
+              -105.9586747,
+              35.6812937
+            ],
+            [
+              -105.9586879,
+              35.6812911
+            ],
+            [
+              -105.9587423,
+              35.6812803
+            ],
+            [
+              -105.9587602,
+              35.6813398
+            ],
+            [
+              -105.9587873,
+              35.6813344
+            ],
+            [
+              -105.9587941,
+              35.681357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/480305782",
+      "properties": {
+        "@id": "way/480305782",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1366",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop;breakfast;lunch",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Iconik Red",
+        "old_name": "Discount Tire",
+        "opening_hours": "07:30-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-428-0996",
+        "website": "https://shop.iconikcoffee.com/pages/iconik-red",
+        "website:menu": "https://iconikcoffee.com/red-to-go/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9638346,
+              35.6706107
+            ],
+            [
+              -105.9638048,
+              35.670583
+            ],
+            [
+              -105.9637755,
+              35.6706037
+            ],
+            [
+              -105.9637092,
+              35.6705418
+            ],
+            [
+              -105.9637396,
+              35.6705203
+            ],
+            [
+              -105.9636962,
+              35.6704798
+            ],
+            [
+              -105.963798,
+              35.6704079
+            ],
+            [
+              -105.9638377,
+              35.670445
+            ],
+            [
+              -105.9639087,
+              35.6703947
+            ],
+            [
+              -105.963953,
+              35.670436
+            ],
+            [
+              -105.9639279,
+              35.6704538
+            ],
+            [
+              -105.9639832,
+              35.6705038
+            ],
+            [
+              -105.9640489,
+              35.6705652
+            ],
+            [
+              -105.9641491,
+              35.6706603
+            ],
+            [
+              -105.9640475,
+              35.670732
+            ],
+            [
+              -105.9639073,
+              35.6706011
+            ],
+            [
+              -105.9638818,
+              35.6705773
+            ],
+            [
+              -105.9638346,
+              35.6706107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/558259123",
+      "properties": {
+        "@id": "way/558259123",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1650",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Agapao Coffee and Tea",
+        "old_name": "Hava Java",
+        "opening_hours": "Mo-Sa 06:30-15:00",
+        "operator": "Dave Black",
+        "outdoor_seating": "no",
+        "phone": "+1-505-474-0036",
+        "source": "https://www.santafenewmexican.com/news/article_9cb57868-42bc-11ea-b3ed-5be977a8b175.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9737381,
+              35.6591144
+            ],
+            [
+              -105.9737112,
+              35.6591353
+            ],
+            [
+              -105.9736968,
+              35.659123
+            ],
+            [
+              -105.9737237,
+              35.6591022
+            ],
+            [
+              -105.9737381,
+              35.6591144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/598565915",
+      "properties": {
+        "@id": "way/598565915",
+        "addr:city": "Santa Fe",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Kaffee Haus",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9560155,
+              35.6632091
+            ],
+            [
+              -105.9559806,
+              35.6632095
+            ],
+            [
+              -105.95598,
+              35.6631709
+            ],
+            [
+              -105.9560148,
+              35.6631705
+            ],
+            [
+              -105.9560155,
+              35.6632091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1279240241",
+      "properties": {
+        "@id": "way/1279240241",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "227",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Galisteo Street",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "building": "no",
+        "check_date": "2024-05-02",
+        "contact:facebook": "cakescafe22",
+        "cuisine": "coffee_shop;sandwich",
+        "currency:USD": "yes",
+        "facebook": "cakescafe22",
+        "name": "Cake's Cafe",
+        "not:name": "Cake Cafe",
+        "old_name": "Trattoria A Mano",
+        "operator": "Cake",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-505-303-4880",
+        "second_hand": "no",
+        "start_date": "2023-01",
+        "toilets": "yes",
+        "was:addr:housenumber": "228",
+        "was:disused:amenity": "cafe",
+        "was:shop": "vacant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9412613,
+              35.6859111
+            ],
+            [
+              -105.9412402,
+              35.6859353
+            ],
+            [
+              -105.9410361,
+              35.6858172
+            ],
+            [
+              -105.9410572,
+              35.6857931
+            ],
+            [
+              -105.9412613,
+              35.6859111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871646",
+      "properties": {
+        "@id": "way/1313871646",
+        "amenity": "cafe",
+        "cuisine": "donut;coffee_shop",
+        "name": "Craft Donuts and Coffee",
+        "opening_hours": "Mo-Fr 08:00-14:00; Sa 08:00-13:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-490-9171",
+        "street_vendor": "food_truck",
+        "website": "https://craftdonutsf.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9382383,
+              35.6810786
+            ],
+            [
+              -105.9382996,
+              35.6810774
+            ],
+            [
+              -105.9382987,
+              35.6810478
+            ],
+            [
+              -105.9382375,
+              35.6810489
+            ],
+            [
+              -105.9382383,
+              35.6810786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1341575867",
+      "properties": {
+        "@id": "way/1341575867",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2841",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "branch": "Cerrillos Road",
+        "brand": "Dutch Bros. Coffee",
+        "brand:website": "https://dutchbros.com",
+        "brand:wikidata": "Q5317253",
+        "building": "yes",
+        "construction": "commercial",
+        "construction_date": "2023",
+        "cuisine": "coffee_shop",
+        "end_date": "2021-12-17",
+        "internet_access": "yes",
+        "name": "Dutch Bros. Coffee",
+        "old_name": "Cheeks (closed)",
+        "old_old_name": "Arcade News (closed)",
+        "old_wikidata": "Q110267339",
+        "opening_hours": "Su-Th 05:00-22:00; Fr-Sa 05:00-23:00",
+        "outdoor_seating": "no",
+        "ref": "#769",
+        "surface": "dirt",
+        "takeaway": "only",
+        "was:alt_amenity": "stripclub",
+        "was:amenity": "nightclub",
+        "was:opening_hours": "Mo-Sa 18:00-02:00, Su 18:00-24:00",
+        "was:operator": "Elmo Montoya",
+        "was:phone": "+1-505-473-5259",
+        "was:website": "https://locations.dutchbros.com/dutch-bros-coffee-d1235bd7ecc9",
+        "website": "https://dutchbros.com/locations/nm/santa-fe/2841-cerrillos-rd",
+        "website:menu": "https://dutchbros.com/menu",
+        "year_of_construction": "2023"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9884412,
+              35.6574173
+            ],
+            [
+              -105.9883148,
+              35.6574757
+            ],
+            [
+              -105.9882803,
+              35.6574263
+            ],
+            [
+              -105.9883281,
+              35.6574042
+            ],
+            [
+              -105.9883158,
+              35.6573867
+            ],
+            [
+              -105.9883944,
+              35.6573504
+            ],
+            [
+              -105.9884412,
+              35.6574173
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

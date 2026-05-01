@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/314808059", "building": "yes", "name": "Zak The Baker", "shop": "bakery", "GEOID": "12086002800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.2008042, 25.8017433 ], [ -80.2007908, 25.8015067 ], [ -80.2009517, 25.801497 ], [ -80.2009892, 25.8015018 ], [ -80.2010187, 25.8015212 ], [ -80.2010322, 25.8015622 ], [ -80.2010429, 25.8017385 ], [ -80.2008042, 25.8017433 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/316621086", "building": "yes", "name": "Fireman Derek's World Famous Pies", "shop": "bakery", "GEOID": "12086002600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.1952092, 25.8034598 ], [ -80.1952063, 25.8033496 ], [ -80.1953381, 25.8033468 ], [ -80.195341, 25.803457 ], [ -80.1952092, 25.8034598 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/435574908", "building": "yes", "name": null, "shop": "bakery", "GEOID": "12086006601" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.2099259, 25.7656624 ], [ -80.2100471, 25.765668 ], [ -80.2100405, 25.7657418 ], [ -80.2100155, 25.7657471 ], [ -80.210015, 25.7658337 ], [ -80.2099829, 25.765861 ], [ -80.2099272, 25.7658599 ], [ -80.2099259, 25.7656624 ] ] ] } }
+]
+}

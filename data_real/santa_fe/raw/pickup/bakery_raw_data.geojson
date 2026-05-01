@@ -1,0 +1,326 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/6412498721",
+      "properties": {
+        "@id": "node/6412498721",
+        "name": "Sage Bakehouse",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9455191,
+              35.6819272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708868448",
+      "properties": {
+        "@id": "node/6708868448",
+        "alt_name": "Drift and Porter",
+        "cuisine": "pastry;cake",
+        "name": "Drift & Porter",
+        "shop": "bakery",
+        "website": "https://www.driftandporter.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9490661,
+              35.6822542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7505290982",
+      "properties": {
+        "@id": "node/7505290982",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9681429,
+              35.6652618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9829209954",
+      "properties": {
+        "@id": "node/9829209954",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "418",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "diet": "vegan:only",
+        "diet:gluten_free": "only",
+        "diet:halal": "limited",
+        "diet:kosher": "pareve",
+        "diet:lactose_free": "limited",
+        "diet:meat": "no",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "gluten_free": "only",
+        "name": "Revolution Bakery",
+        "opening_hours": "Tu-Sa 09:00-14:00",
+        "opening_hours:pickup": "Fr 10:00-13:00",
+        "operator": "Dionne Christian",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1 505 346 2669",
+        "pickup": "yes",
+        "shop": "bakery",
+        "website": "https://revolutionbakery.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9435279,
+              35.6839803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630014",
+      "properties": {
+        "@id": "node/11283630014",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "3277",
+        "addr:postcode": "87507",
+        "addr:street": "Cerrillos Road",
+        "name": "Panaderia Zaragoza Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9999104,
+              35.6508101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12073106123",
+      "properties": {
+        "@id": "node/12073106123",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9439535,
+              35.689298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12162448782",
+      "properties": {
+        "@id": "node/12162448782",
+        "addr:housenumber": "1430",
+        "addr:street": "2nd Street",
+        "name": "A Cake Odyssey",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9681595,
+              35.6650399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12409787288",
+      "properties": {
+        "@id": "node/12409787288",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3140",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "F",
+        "name": "Tortilleria Panaderia",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9957172,
+              35.6514902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12511788184",
+      "properties": {
+        "@id": "node/12511788184",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "6417",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "105",
+        "name": "Del Valle Panaderia",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0427636,
+              35.636506
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/473673732",
+      "properties": {
+        "@id": "way/473673732",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "402",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "building": "yes",
+        "email": "info@dolinasantafe.com",
+        "name": "Dolina Santa Fe",
+        "opening_hours": "Mo-Fr 07:00-13:30; Sa-Su 08:00-13:30",
+        "shop": "bakery",
+        "website": "https://www.dolinasantafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9463329,
+              35.6915165
+            ],
+            [
+              -105.9462722,
+              35.6915398
+            ],
+            [
+              -105.9462595,
+              35.691518
+            ],
+            [
+              -105.9461125,
+              35.6915744
+            ],
+            [
+              -105.9460696,
+              35.6915005
+            ],
+            [
+              -105.9462773,
+              35.6914209
+            ],
+            [
+              -105.9463034,
+              35.6914657
+            ],
+            [
+              -105.9463329,
+              35.6915165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/486208137",
+      "properties": {
+        "@id": "way/486208137",
+        "addr:housenumber": "2897",
+        "addr:street": "Trades West Road",
+        "building": "yes",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9942259,
+              35.6604828
+            ],
+            [
+              -105.9940907,
+              35.6605645
+            ],
+            [
+              -105.993884,
+              35.6603397
+            ],
+            [
+              -105.9940192,
+              35.660258
+            ],
+            [
+              -105.9942259,
+              35.6604828
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

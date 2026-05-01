@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/408952599", "amenity": null, "building": "yes", "name": "A&L Bakery", "shop": "bakery", "GEOID": "25025050400" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.0358251, 42.3674906 ], [ -71.0357837, 42.367544 ], [ -71.0357114, 42.3675134 ], [ -71.0358743, 42.3673033 ], [ -71.0359466, 42.3673339 ], [ -71.0358251, 42.3674906 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/862911407", "amenity": null, "building": "yes", "name": "Flour Bakery + Cafe", "shop": "bakery", "GEOID": "25025981700" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.0664015, 42.3543356 ], [ -71.0664328, 42.3543416 ], [ -71.0664655, 42.3543288 ], [ -71.0664813, 42.3542956 ], [ -71.0664758, 42.3542891 ], [ -71.0664544, 42.3542654 ], [ -71.0664229, 42.3542598 ], [ -71.0663794, 42.3542825 ], [ -71.0663753, 42.3543125 ], [ -71.0664015, 42.3543356 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/966829843", "amenity": null, "building": "yes", "name": "Oakleaf Cakes", "shop": "bakery", "GEOID": "25025010404" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.0866868, 42.3433198 ], [ -71.086597, 42.3433062 ], [ -71.0866219, 42.3432162 ], [ -71.0866244, 42.3432073 ], [ -71.0866479, 42.3432109 ], [ -71.086681, 42.3430919 ], [ -71.0867462, 42.3431018 ], [ -71.0866868, 42.3433198 ] ] ] } }
+]
+}

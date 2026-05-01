@@ -1,0 +1,3773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2500718992",
+      "properties": {
+        "@id": "node/2500718992",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3299",
+        "addr:postcode": "87501-2924",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "McDonald\u2019s Free WiFi",
+        "name": "McDonald's",
+        "opening_hours": "06:00-23:00",
+        "outdoor_seating": "no",
+        "payment:visa": "yes",
+        "phone": "+1 505-471-0411",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/2279.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.001077,
+              35.650206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501324172",
+      "properties": {
+        "@id": "node/2501324172",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3526",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "addr:unit": "D1",
+        "amenity": "fast_food",
+        "brand": "Jimmy John's",
+        "brand:wikidata": "Q1689380",
+        "cuisine": "sandwich",
+        "name": "Jimmy John's",
+        "official_name": "Jimmy John's Gourmet Sandwiches",
+        "phone": "+1 505-473-7777",
+        "takeaway": "yes",
+        "website": "https://locations.jimmyjohns.com/nm/santafe/sandwiches-2526.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0119094,
+              35.6407353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4673538621",
+      "properties": {
+        "@id": "node/4673538621",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "540",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "addr:unit": "C",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Subway",
+        "opening_hours": "08:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+1 505-955-1682",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/540-cordova-rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9530161,
+              35.673725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4771034423",
+      "properties": {
+        "@id": "node/4771034423",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3522",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "addr:unit": "A1",
+        "amenity": "fast_food",
+        "branch": "Zafarando & Cerrillos",
+        "brand": "Panda Express",
+        "brand:wikidata": "Q1358690",
+        "cuisine": "chinese",
+        "name": "Panda Express",
+        "opening_hours": "Mo-Th 09:30-22:30; Fr-Sa 09:30-23:00; Su 09:30-22:30",
+        "phone": "+1 505-471-7707",
+        "takeaway": "yes",
+        "website": "https://www.pandaexpress.com/locations/nm/santa-fe/616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0126718,
+              35.6418798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4771034424",
+      "properties": {
+        "@id": "node/4771034424",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3522",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "addr:unit": "B2",
+        "amenity": "fast_food",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "official_name": "Five Guys Burgers and Fries",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0125239,
+              35.6417343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4771034427",
+      "properties": {
+        "@id": "node/4771034427",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3530",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
+        "phone": "+1 505-473-1672",
+        "ref": "6540",
+        "short_name": "Domino's",
+        "takeaway": "yes",
+        "website": "https://pizza.dominos.com/new-mexico/santa-fe/3530-zafarano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0119375,
+              35.6402542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106059792",
+      "properties": {
+        "@id": "node/5106059792",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "500",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "fast_food",
+        "branch": "Paseo De Peralta & Guadalupe",
+        "brand": "Panda Express",
+        "brand:wikidata": "Q1358690",
+        "check_date": "2023-06-06",
+        "cuisine": "chinese",
+        "name": "Panda Express",
+        "opening_hours": "Mo-Th 09:30-22:00; Fr-Sa 09:30-22:30; Su 09:30-22:00",
+        "phone": "+1 505-992-1186",
+        "takeaway": "yes",
+        "website": "https://www.pandaexpress.com/locations/nm/santa-fe/862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9506621,
+              35.6934893
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5634001232",
+      "properties": {
+        "@id": "node/5634001232",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2774",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Sawmill Road",
+        "amenity": "fast_food",
+        "brand": "Wendy's",
+        "brand:wikidata": "Q550258",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "Wendy's",
+        "opening_hours": "07:30-22:00",
+        "opening_hours:drive_through": "Mo-Su 06:30-00:00",
+        "payment:cards": "yes",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 505-471-7490",
+        "takeaway": "yes",
+        "website": "https://locations.wendys.com/united-states/nm/santa-fe/2774-sawmill-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9595361,
+              35.640236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5697979421",
+      "properties": {
+        "@id": "node/5697979421",
+        "amenity": "fast_food",
+        "brand": "Firehouse Subs",
+        "brand:wikidata": "Q5451873",
+        "cuisine": "sandwich",
+        "name": "Firehouse Subs",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.009806,
+              35.6445891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6473953631",
+      "properties": {
+        "@id": "node/6473953631",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Blimpie's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9571465,
+              35.6413891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6485129010",
+      "properties": {
+        "@id": "node/6485129010",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "554",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "addr:unit": "H0m",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "check_date": "2023-06-06",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1 505-988-5082",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/554-n-guadalupe-rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9501745,
+              35.6931647
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6486841962",
+      "properties": {
+        "@id": "node/6486841962",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3005",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "addr:unit": "1F",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "08:00-19:00",
+        "phone": "+1 505-780-8957",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/3005-s-st-francis-dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9547841,
+              35.645562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6534336606",
+      "properties": {
+        "@id": "node/6534336606",
+        "addr:housenumber": "207",
+        "addr:street": "West San Francisco Street",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940822,
+              35.6876655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577793106",
+      "properties": {
+        "@id": "node/6577793106",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Place",
+        "ref": "1338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0138386,
+              35.6359071
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6615351983",
+      "properties": {
+        "@id": "node/6615351983",
+        "amenity": "fast_food",
+        "street_vendor": "food_truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.955984,
+              35.6634265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953236",
+      "properties": {
+        "@id": "node/6626953236",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "5041",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Main Street",
+        "addr:unit": "105",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1 505-303-3024",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/5041-main-street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0308623,
+              35.6181387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953469",
+      "properties": {
+        "@id": "node/6626953469",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3494",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "addr:unit": "B",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00",
+        "phone": "+1 505-424-3801",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/3494-zafarano-dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.01377,
+              35.6436103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6629919096",
+      "properties": {
+        "@id": "node/6629919096",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Bambini's Phillys Cheesesteaks",
+        "street_vendor": "food_truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9539616,
+              35.6790899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6645808609",
+      "properties": {
+        "@id": "node/6645808609",
+        "amenity": "fast_food",
+        "cuisine": "mexican"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9844923,
+              35.6593944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6645808624",
+      "properties": {
+        "@id": "node/6645808624",
+        "addr:housenumber": "1833",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "El Parasol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9733488,
+              35.6651184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6656063064",
+      "properties": {
+        "@id": "node/6656063064",
+        "addr:housenumber": "2428",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "bar": "yes",
+        "cuisine": "mexican",
+        "name": "Dos Amigos/Katrina's",
+        "old_name": "Souper Salad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9821075,
+              35.659532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6679458411",
+      "properties": {
+        "@id": "node/6679458411",
+        "amenity": "fast_food",
+        "brand": "Papa Murphy's",
+        "brand:wikidata": "Q7132349",
+        "cuisine": "pizza",
+        "name": "Papa Murphy's",
+        "official_name": "Papa Murphy's Take 'N' Bake Pizza",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0132493,
+              35.6448919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6679458412",
+      "properties": {
+        "@id": "node/6679458412",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3538",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "addr:unit": "A1-2",
+        "amenity": "fast_food",
+        "branch": "Santa Fe Zafarano & Cerrillos",
+        "brand": "Wingstop",
+        "brand:wikidata": "Q8025339",
+        "cuisine": "wings",
+        "name": "Wingstop",
+        "phone": "+1 505-657-9464",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0132557,
+              35.6413742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696324531",
+      "properties": {
+        "@id": "node/6696324531",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "6417",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "100",
+        "amenity": "fast_food",
+        "name": "Authentic Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0430921,
+              35.636481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696338769",
+      "properties": {
+        "@id": "node/6696338769",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "18",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Rey del Pollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0256707,
+              35.6379124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696338770",
+      "properties": {
+        "@id": "node/6696338770",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "10",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00",
+        "phone": "+1 505-438-8001",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/4350-airport-rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0251053,
+              35.6379896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696363465",
+      "properties": {
+        "@id": "node/6696363465",
+        "amenity": "fast_food",
+        "cuisine": "pretzel",
+        "name": "Pretzel Zone",
+        "ref": "1206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0128898,
+              35.6361792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696561613",
+      "properties": {
+        "@id": "node/6696561613",
+        "addr:city": "Santa Fe",
+        "addr:postcode": "87507-0961",
+        "addr:state": "NM",
+        "alt_name": "Dairy Queen",
+        "amenity": "fast_food",
+        "brand": "DQ Grill & Chill",
+        "brand:wikidata": "Q1141226",
+        "cuisine": "ice_cream;burger;chicken",
+        "name": "DQ Grill & Chill",
+        "phone": "+1 505-471-8532",
+        "ref": "1328",
+        "takeaway": "yes",
+        "website": "https://www.dairyqueen.com/locations/nm/santa-fe/santa-fe-place/2735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0138419,
+              35.6358319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696561614",
+      "properties": {
+        "@id": "node/6696561614",
+        "amenity": "fast_food",
+        "name": "Loko Mix",
+        "ref": "1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0138419,
+              35.6357902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696561615",
+      "properties": {
+        "@id": "node/6696561615",
+        "amenity": "fast_food",
+        "name": "San Martin",
+        "ref": "1318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0138365,
+              35.6356475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708586261",
+      "properties": {
+        "@id": "node/6708586261",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3478",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "05:30-22:00",
+        "phone": "+1 505-424-7071",
+        "ref": "16907",
+        "takeaway": "yes",
+        "website": "https://www.bk.com/store-locator/store/restaurant_10636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0158412,
+              35.6409141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708586282",
+      "properties": {
+        "@id": "node/6708586282",
+        "addr:unit": "414",
+        "amenity": "fast_food",
+        "contact:facebook": "https://facebook.com/Sweet-Santa-Fe-470492536713856",
+        "contact:instagram": "https://instagram.com/sweetsantafe",
+        "contact:url": "https://sweetsantafe.com/contact-us",
+        "email": "SweetSantaFeChocolate@gmail.com",
+        "fast_food": "cafeteria",
+        "name": "Sweet Santa Fe",
+        "official_name": "Sweet Santa Fe, LLC",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "phone": "+1-505-428-0012",
+        "shop:url": "https://sweetsantafe.com/shop-with-us",
+        "strapline": "The most enchanting sweets born on the chocolate trail",
+        "website": "https://SweetSantaFe.com",
+        "yelp": "https://yelp.com/biz/sweet-santa-fe-santa-fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0328219,
+              35.6102676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708911301",
+      "properties": {
+        "@id": "node/6708911301",
+        "amenity": "fast_food",
+        "street_vendor": "food_truck",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.93851,
+              35.6811176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6714874461",
+      "properties": {
+        "@id": "node/6714874461",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Los Potrillos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.976067,
+              35.6637049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7543550548",
+      "properties": {
+        "@id": "node/7543550548",
+        "amenity": "fast_food",
+        "street_vendor": "food_truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9968685,
+              35.6542457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7543550549",
+      "properties": {
+        "@id": "node/7543550549",
+        "amenity": "fast_food",
+        "street_vendor": "food_truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9969181,
+              35.654316
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8562127656",
+      "properties": {
+        "@id": "node/8562127656",
+        "addr:housenumber": "1420",
+        "addr:street": "2nd Street",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Ramblin Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.96839,
+              35.6652559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9298280333",
+      "properties": {
+        "@id": "node/9298280333",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4980",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Promenade Boulevard",
+        "addr:unit": "C",
+        "amenity": "fast_food",
+        "brand": "Jersey Mike's Subs",
+        "brand:wikidata": "Q6184897",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Jersey Mike's Subs",
+        "short_name": "Jersey Mike's",
+        "takeaway": "yes",
+        "website": "https://www.jerseymikes.com/39009/santa-fe-nm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.028919,
+              35.6190813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445744",
+      "properties": {
+        "@id": "node/9753445744",
+        "addr:housenumber": "1711",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "G",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Mucho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9723526,
+              35.6581694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445757",
+      "properties": {
+        "@id": "node/9753445757",
+        "addr:housenumber": "1704",
+        "addr:street": "Llano Street",
+        "addr:unit": "C",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Fusion Tacos",
+        "old_name": "Eterna Primavera",
+        "old_shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.973117,
+              35.6585579
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10163924426",
+      "properties": {
+        "@id": "node/10163924426",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "B9",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "phone": "+1 505-471-4631",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/2801-rodeo-rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9838377,
+              35.6391937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10705652724",
+      "properties": {
+        "@id": "node/10705652724",
+        "addr:housenumber": "3005",
+        "addr:street": "South Saint Francis Drive",
+        "addr:unit": "1H",
+        "amenity": "fast_food",
+        "brand": "Papa Murphy's",
+        "brand:wikidata": "Q7132349",
+        "cuisine": "pizza",
+        "name": "Papa Murphy's",
+        "official_name": "Papa Murphy's Take 'N' Bake Pizza",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9547853,
+              35.6457396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11270721864",
+      "properties": {
+        "@id": "node/11270721864",
+        "addr:housenumber": "125",
+        "addr:street": "Washington Avenue",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Hawt Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9371122,
+              35.6883401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630004",
+      "properties": {
+        "@id": "node/11283630004",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "3295",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "takeaway": "yes",
+        "website": "https://locations.kfc.com/nm/santa-fe/3295-cerrillos-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0004481,
+              35.6505406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630005",
+      "properties": {
+        "@id": "node/11283630005",
+        "addr:housenumber": "3267",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Arby's",
+        "brand:wikidata": "Q630866",
+        "check_date": "2024-06-21",
+        "check_date:opening_hours": "2024-06-08",
+        "cuisine": "sandwich",
+        "drive_through": "yes",
+        "name": "Arby's",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "takeaway": "yes",
+        "website": "https://www.arbys.com/locations/us/nm/santa-fe/3267-cerrillos-rd/store-1110/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9997701,
+              35.6510343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630006",
+      "properties": {
+        "@id": "node/11283630006",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3257",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Long John Silver's",
+        "brand:wikidata": "Q1535221",
+        "cuisine": "seafood",
+        "name": "Long John Silver's",
+        "takeaway": "yes",
+        "website": "https://www.ljsilvers.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9991928,
+              35.651349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630009",
+      "properties": {
+        "@id": "node/11283630009",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3261",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "cuisine": "pizza",
+        "drive_through": "yes",
+        "name": "Little Caesars",
+        "takeaway": "yes",
+        "website": "https://littlecaesars.com/en-us/store/10110/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9993309,
+              35.6511653
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12121301205",
+      "properties": {
+        "@id": "node/12121301205",
+        "amenity": "fast_food",
+        "fast_food": "cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.043166,
+              35.6227391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12518089142",
+      "properties": {
+        "@id": "node/12518089142",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9353152,
+              35.695999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12955159664",
+      "properties": {
+        "@id": "node/12955159664",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "19",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Familia Mexicana Carniceria #2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0257472,
+              35.6379021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12955159667",
+      "properties": {
+        "@id": "node/12955159667",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "15",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Elkochi Loko Carnitas y Chicharrones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0254842,
+              35.6379433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13298688010",
+      "properties": {
+        "@id": "node/13298688010",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "B7",
+        "amenity": "fast_food",
+        "building": "no",
+        "cuisine": "juice",
+        "name": "The Life Bar",
+        "old_name": "Hair Affair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.983668,
+              35.639197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227851069",
+      "properties": {
+        "@id": "way/227851069",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1640",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "Carl's Jr.",
+        "phone": "+1 505-471-7794",
+        "ref": "1101207",
+        "takeaway": "yes",
+        "website": "https://locations.carlsjr.com/nm/santa-fe/1640-st-michaels-dr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9743775,
+              35.6592483
+            ],
+            [
+              -105.9742107,
+              35.6592839
+            ],
+            [
+              -105.9741957,
+              35.6592398
+            ],
+            [
+              -105.9741801,
+              35.6591907
+            ],
+            [
+              -105.9741545,
+              35.6591101
+            ],
+            [
+              -105.9743213,
+              35.6590744
+            ],
+            [
+              -105.9743775,
+              35.6592483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259860726",
+      "properties": {
+        "@id": "way/259860726",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3200",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Blake's Lotaburger",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Blake's Lotaburger - Camino Consuelo",
+        "not:brand:wikidata": "Q4924308",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9972029,
+              35.6515666
+            ],
+            [
+              -105.9971005,
+              35.6514584
+            ],
+            [
+              -105.9969201,
+              35.6515712
+            ],
+            [
+              -105.9970225,
+              35.6516793
+            ],
+            [
+              -105.9972029,
+              35.6515666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318069377",
+      "properties": {
+        "@id": "way/318069377",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1085",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "no",
+        "name": "Dunkin'",
+        "opening_hours": "Mo-Fr 04:00-22:00; Sa 05:00-22:00; Su 05:30-22:00",
+        "phone": "+1 505-983-2090",
+        "ref": "301341",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nm/santa-fe/1085-s-saint-francis-dr/301341"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9531899,
+              35.6750593
+            ],
+            [
+              -105.9532012,
+              35.6749117
+            ],
+            [
+              -105.9530866,
+              35.674906
+            ],
+            [
+              -105.9530754,
+              35.6750535
+            ],
+            [
+              -105.9531899,
+              35.6750593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318069386",
+      "properties": {
+        "@id": "way/318069386",
+        "addr:housenumber": "2641",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Realburger",
+        "opening_hours": "Mo-Fr 10:30-18:30 Sa 10:00-18:00",
+        "phone": "+1 505 474 7325",
+        "start_date": "1974",
+        "website": "https://realburgersantafe.com",
+        "wikidata": "Q135908185",
+        "wikimedia_commons": "category:Realburger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.985028,
+              35.6594449
+            ],
+            [
+              -105.9849927,
+              35.6593657
+            ],
+            [
+              -105.9850057,
+              35.6593619
+            ],
+            [
+              -105.9850663,
+              35.659344
+            ],
+            [
+              -105.9853423,
+              35.6592627
+            ],
+            [
+              -105.9853777,
+              35.6593419
+            ],
+            [
+              -105.985028,
+              35.6594449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/426290023",
+      "properties": {
+        "@id": "way/426290023",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "5020",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Promenade Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "06:00-22:00",
+        "phone": "+1 505-471-3735",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/33423.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0294584,
+              35.6184353
+            ],
+            [
+              -106.0291412,
+              35.6183047
+            ],
+            [
+              -106.0291717,
+              35.6182585
+            ],
+            [
+              -106.0292043,
+              35.61827
+            ],
+            [
+              -106.0292327,
+              35.6182089
+            ],
+            [
+              -106.0295275,
+              35.6183279
+            ],
+            [
+              -106.0294584,
+              35.6184353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/426290024",
+      "properties": {
+        "@id": "way/426290024",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "5040",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Promenade Boulevard",
+        "amenity": "fast_food",
+        "brand": "Taco Bell",
+        "brand:wikidata": "Q752941",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "drive_through": "yes",
+        "name": "Taco Bell",
+        "opening_hours": "Mo-We 07:00-22:00; Fr-Sa 07:00-22:00",
+        "opening_hours:drive_through": "Mo-We 07:00-02:00; Th-Sa 07:00-03:00; Su 07:00-02:00",
+        "opening_hours:url": "https://locations.tacobell.com/nm/santa-fe/5040-promenade-blvd.html",
+        "phone": "+1 505-471-0351",
+        "takeaway": "yes",
+        "website": "https://locations.tacobell.com/nm/santa-fe/5040-promenade-blvd.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0296857,
+              35.6180696
+            ],
+            [
+              -106.0294068,
+              35.6179589
+            ],
+            [
+              -106.0294542,
+              35.61788
+            ],
+            [
+              -106.029733,
+              35.6179907
+            ],
+            [
+              -106.0296857,
+              35.6180696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435964657",
+      "properties": {
+        "@id": "way/435964657",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "851",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "B",
+        "alt_name": "Whoo's Doughnuts",
+        "amenity": "fast_food",
+        "building": "yes",
+        "check_date": "2025-11-14",
+        "check_date:currency:XBT": "2025-11-14",
+        "contact:facebook": "https://www.facebook.com/Whoos-Donuts-202709269795350/",
+        "contact:instagram": "whoosdonuts",
+        "contact:phone": "+1 505 629 1678",
+        "contact:website": "http://whoosdonuts.com",
+        "cuisine": "donut",
+        "currency:XBT": "yes",
+        "name": "Whoo's Donuts",
+        "opening_hours": "Mo-We 07:00-14:00; Th-Sa 07:00-20:00; Su 07:00-19:00",
+        "payment:lightning": "yes",
+        "payment:lightning:operator": "square",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9518209,
+              35.6785426
+            ],
+            [
+              -105.9518074,
+              35.6785494
+            ],
+            [
+              -105.9518121,
+              35.6785556
+            ],
+            [
+              -105.9517572,
+              35.6785831
+            ],
+            [
+              -105.9517519,
+              35.6785761
+            ],
+            [
+              -105.951741,
+              35.6785816
+            ],
+            [
+              -105.9517355,
+              35.6785742
+            ],
+            [
+              -105.95173,
+              35.6785672
+            ],
+            [
+              -105.9517231,
+              35.6785582
+            ],
+            [
+              -105.9517055,
+              35.6785673
+            ],
+            [
+              -105.9515994,
+              35.6784277
+            ],
+            [
+              -105.9516977,
+              35.6783785
+            ],
+            [
+              -105.9517623,
+              35.6784645
+            ],
+            [
+              -105.9518209,
+              35.6785426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461791403",
+      "properties": {
+        "@id": "way/461791403",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "600",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "hot_dog",
+        "drive_through": "no",
+        "name": "Chicago Dog Express",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9466404,
+              35.6815041
+            ],
+            [
+              -105.9466463,
+              35.6815015
+            ],
+            [
+              -105.9466522,
+              35.6814688
+            ],
+            [
+              -105.9466486,
+              35.6814611
+            ],
+            [
+              -105.9465981,
+              35.6814515
+            ],
+            [
+              -105.9465894,
+              35.6814944
+            ],
+            [
+              -105.9466404,
+              35.6815041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461792088",
+      "properties": {
+        "@id": "way/461792088",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "1001",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "addr:unit": "101",
+        "amenity": "fast_food",
+        "brand": "Chipotle",
+        "brand:wikidata": "Q465751",
+        "building": "yes",
+        "cuisine": "mexican",
+        "drive_through": "no",
+        "name": "Chipotle",
+        "official_name": "Chipotle Mexican Grill",
+        "phone": "+1 505-303-4534",
+        "takeaway": "yes",
+        "website": "https://locations.chipotle.com/nm/santa-fe/1001-s-saint-francis-dr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9531317,
+              35.6777448
+            ],
+            [
+              -105.9527915,
+              35.6777439
+            ],
+            [
+              -105.952791,
+              35.6778729
+            ],
+            [
+              -105.9531326,
+              35.6778739
+            ],
+            [
+              -105.9532086,
+              35.6777918
+            ],
+            [
+              -105.9531317,
+              35.6777448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461792096",
+      "properties": {
+        "@id": "way/461792096",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1007",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "06:00-22:00",
+        "phone": "+1 505-984-1490",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/31442.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9532131,
+              35.67675
+            ],
+            [
+              -105.9532195,
+              35.6766174
+            ],
+            [
+              -105.9529254,
+              35.6766161
+            ],
+            [
+              -105.9529221,
+              35.6767382
+            ],
+            [
+              -105.9532131,
+              35.67675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461796142",
+      "properties": {
+        "@id": "way/461796142",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1014",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "building": "yes",
+        "cuisine": "pizza",
+        "drive_through": "yes",
+        "name": "Domino's",
+        "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-24:00",
+        "phone": "+1 505-984-3030",
+        "ref": "6531",
+        "short_name": "Domino's",
+        "takeaway": "yes",
+        "website": "https://pizza.dominos.com/new-mexico/santa-fe/1014-s-st-francis-dr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9540698,
+              35.6760333
+            ],
+            [
+              -105.954127,
+              35.6759294
+            ],
+            [
+              -105.9538607,
+              35.6758326
+            ],
+            [
+              -105.9538119,
+              35.6759211
+            ],
+            [
+              -105.9539147,
+              35.6759585
+            ],
+            [
+              -105.9539063,
+              35.6759738
+            ],
+            [
+              -105.9540698,
+              35.6760333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461803076",
+      "properties": {
+        "@id": "way/461803076",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1201",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Taco Bell",
+        "brand:wikidata": "Q752941",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "drive_through": "yes",
+        "name": "Taco Bell",
+        "opening_hours": "07:00-22:00",
+        "opening_hours:drive_through": "Su-We 07:00-01:30, Th-Sa 07:00-03:00",
+        "opening_hours:url": "https://locations.tacobell.com/nm/santa-fe/1201-cerrillos-road.html",
+        "phone": "+1 505-982-5065",
+        "takeaway": "yes",
+        "website": "https://locations.tacobell.com/nm/santa-fe/1201-cerrillos-road.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9615646,
+              35.6723754
+            ],
+            [
+              -105.9613574,
+              35.6725447
+            ],
+            [
+              -105.9613521,
+              35.6725402
+            ],
+            [
+              -105.9613309,
+              35.6725199
+            ],
+            [
+              -105.961317,
+              35.6725357
+            ],
+            [
+              -105.961271,
+              35.6725006
+            ],
+            [
+              -105.9612891,
+              35.6724836
+            ],
+            [
+              -105.9612738,
+              35.6724689
+            ],
+            [
+              -105.9613874,
+              35.6723795
+            ],
+            [
+              -105.9614831,
+              35.6723047
+            ],
+            [
+              -105.961523,
+              35.6723394
+            ],
+            [
+              -105.9615646,
+              35.6723754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463032595",
+      "properties": {
+        "@id": "way/463032595",
+        "addr:housenumber": "2018",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Baja Tacos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9787794,
+              35.6614445
+            ],
+            [
+              -105.9786769,
+              35.6614935
+            ],
+            [
+              -105.9785443,
+              35.6613188
+            ],
+            [
+              -105.9786488,
+              35.6612666
+            ],
+            [
+              -105.9787794,
+              35.6614445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463032603",
+      "properties": {
+        "@id": "way/463032603",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1698",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "fast_food",
+        "brand": "Jimmy John's",
+        "brand:wikidata": "Q1689380",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "drive_through": "yes",
+        "name": "Jimmy John's",
+        "official_name": "Jimmy John's Gourmet Sandwiches",
+        "phone": "+1 505-438-3333",
+        "takeaway": "yes",
+        "website": "https://locations.jimmyjohns.com/nm/santafe/sandwiches-3684.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9734069,
+              35.6588952
+            ],
+            [
+              -105.9731831,
+              35.6588852
+            ],
+            [
+              -105.973173,
+              35.6590358
+            ],
+            [
+              -105.973262,
+              35.6590398
+            ],
+            [
+              -105.9732631,
+              35.6590237
+            ],
+            [
+              -105.973288,
+              35.6590248
+            ],
+            [
+              -105.9732891,
+              35.6590078
+            ],
+            [
+              -105.9733134,
+              35.6590089
+            ],
+            [
+              -105.9733146,
+              35.6589907
+            ],
+            [
+              -105.9733392,
+              35.6589918
+            ],
+            [
+              -105.9733404,
+              35.6589734
+            ],
+            [
+              -105.9734015,
+              35.6589761
+            ],
+            [
+              -105.9734069,
+              35.6588952
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463032604",
+      "properties": {
+        "@id": "way/463032604",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1621",
+        "addr:postcode": "87505-2051",
+        "addr:state": "NM",
+        "addr:street": "Llano Street",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "05:30-21:00",
+        "phone": "+1 505-983-1000",
+        "ref": "7301",
+        "takeaway": "yes",
+        "website": "https://www.bk.com/store-locator/store/restaurant_4194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9735096,
+              35.6600546
+            ],
+            [
+              -105.9733789,
+              35.6600803
+            ],
+            [
+              -105.9733135,
+              35.6598799
+            ],
+            [
+              -105.9734527,
+              35.6598473
+            ],
+            [
+              -105.9735096,
+              35.6600546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/473673731",
+      "properties": {
+        "@id": "way/473673731",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "404",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "fast_food",
+        "brand": "Blake's Lotaburger",
+        "brand:wikidata": "Q4924308",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Blake's Lotaburger",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9463415,
+              35.6917203
+            ],
+            [
+              -105.9462642,
+              35.691723
+            ],
+            [
+              -105.9462589,
+              35.6916253
+            ],
+            [
+              -105.9463363,
+              35.6916226
+            ],
+            [
+              -105.9463415,
+              35.6917203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474072497",
+      "properties": {
+        "@id": "way/474072497",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "100",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Saint Francis Drive",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "05:30-22:00",
+        "phone": "+1 505-988-1222",
+        "ref": "7868",
+        "takeaway": "yes",
+        "website": "https://www.bk.com/store-locator/store/restaurant_4489"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9543617,
+              35.6890743
+            ],
+            [
+              -105.9543656,
+              35.6888789
+            ],
+            [
+              -105.9542826,
+              35.6888778
+            ],
+            [
+              -105.954278,
+              35.6891118
+            ],
+            [
+              -105.9542996,
+              35.6891121
+            ],
+            [
+              -105.9543,
+              35.689094
+            ],
+            [
+              -105.9543275,
+              35.6890944
+            ],
+            [
+              -105.9543279,
+              35.6890739
+            ],
+            [
+              -105.9543617,
+              35.6890743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474261940",
+      "properties": {
+        "@id": "way/474261940",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3401",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Schlotzsky's",
+        "brand:wikidata": "Q2244796",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Schlotzsky's",
+        "phone": "+1-505-474-3711",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0044638,
+              35.6482037
+            ],
+            [
+              -106.0043523,
+              35.6482247
+            ],
+            [
+              -106.0042989,
+              35.6480379
+            ],
+            [
+              -106.0044104,
+              35.6480169
+            ],
+            [
+              -106.0044638,
+              35.6482037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474727827",
+      "properties": {
+        "@id": "way/474727827",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1621",
+        "addr:postcode": "87501-3964",
+        "addr:state": "NM",
+        "addr:street": "South Pacheco Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "07:00-20:00",
+        "phone": "+1 505-988-9500",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/11796.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9589776,
+              35.6600809
+            ],
+            [
+              -105.9587159,
+              35.6600857
+            ],
+            [
+              -105.9587153,
+              35.6600637
+            ],
+            [
+              -105.9586506,
+              35.6600649
+            ],
+            [
+              -105.9586479,
+              35.6599655
+            ],
+            [
+              -105.9589742,
+              35.6599594
+            ],
+            [
+              -105.9589776,
+              35.6600809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475151307",
+      "properties": {
+        "@id": "way/475151307",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4042",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Sonic",
+        "brand:wikidata": "Q7561808",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_in": "yes",
+        "drive_through": "yes",
+        "name": "Sonic",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-24:00; Su 07:00-23:00",
+        "phone": "+1 505-471-0600",
+        "takeaway": "yes",
+        "website": "https://locations.sonicdrivein.com/nm/santafe/4042-cerrillos-road.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0142782,
+              35.6407141
+            ],
+            [
+              -106.0142783,
+              35.6407976
+            ],
+            [
+              -106.0143553,
+              35.6407976
+            ],
+            [
+              -106.0143553,
+              35.6408439
+            ],
+            [
+              -106.0144094,
+              35.6408439
+            ],
+            [
+              -106.0144092,
+              35.6405279
+            ],
+            [
+              -106.0143574,
+              35.640528
+            ],
+            [
+              -106.0143576,
+              35.640714
+            ],
+            [
+              -106.0142782,
+              35.6407141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475151316",
+      "properties": {
+        "@id": "way/475151316",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3535",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "fast_food",
+        "brand": "Panera Bread",
+        "brand:wikidata": "Q7130852",
+        "building": "yes",
+        "cuisine": "sandwich;bakery",
+        "drive_through": "yes",
+        "name": "Panera Bread",
+        "opening_hours": "07:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 505-471-9396",
+        "short_name": "Panera",
+        "takeaway": "yes",
+        "website": "https://locations.panerabread.com/nm/santa-fe/3535-zafarano-drive.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0115828,
+              35.6416957
+            ],
+            [
+              -106.011518,
+              35.6416257
+            ],
+            [
+              -106.0115022,
+              35.6416352
+            ],
+            [
+              -106.0114531,
+              35.6415809
+            ],
+            [
+              -106.0114683,
+              35.6415719
+            ],
+            [
+              -106.0115196,
+              35.6415405
+            ],
+            [
+              -106.0116476,
+              35.6414623
+            ],
+            [
+              -106.011769,
+              35.6415934
+            ],
+            [
+              -106.01167,
+              35.6416539
+            ],
+            [
+              -106.0116631,
+              35.6416465
+            ],
+            [
+              -106.0115828,
+              35.6416957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475416127",
+      "properties": {
+        "@id": "way/475416127",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1721",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "fast_food",
+        "brand": "Sonic",
+        "brand:wikidata": "Q7561808",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_in": "yes",
+        "drive_through": "yes",
+        "name": "Sonic",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-24:00; Su 07:00-23:00",
+        "phone": "+1 505-984-2522",
+        "takeaway": "yes",
+        "website": "https://locations.sonicdrivein.com/nm/santafe/1721-saint-michaels-drive.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9714905,
+              35.6599631
+            ],
+            [
+              -105.9714204,
+              35.6599789
+            ],
+            [
+              -105.9714179,
+              35.6599715
+            ],
+            [
+              -105.9713648,
+              35.6598217
+            ],
+            [
+              -105.9713889,
+              35.659816
+            ],
+            [
+              -105.9713815,
+              35.6597949
+            ],
+            [
+              -105.9714073,
+              35.6597889
+            ],
+            [
+              -105.9714151,
+              35.6598107
+            ],
+            [
+              -105.9714443,
+              35.6598039
+            ],
+            [
+              -105.9714533,
+              35.6598294
+            ],
+            [
+              -105.9714455,
+              35.6598312
+            ],
+            [
+              -105.9714493,
+              35.6598419
+            ],
+            [
+              -105.9714905,
+              35.6599631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475889040",
+      "properties": {
+        "@id": "way/475889040",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2004",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "fast_food",
+        "brand": "Blake's Lotaburger",
+        "brand:wikidata": "Q4924308",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Blake's Lotaburger",
+        "source": "https://santafenewmexican.com/article_c324edfe-3477-4a3f-b0d1-4b6035c73d64.html",
+        "takeaway": "yes",
+        "was:razed:amenity": "fast_food",
+        "was:razed:building": "yes",
+        "was:razed:cuisine": "burger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9664903,
+              35.6587375
+            ],
+            [
+              -105.9663337,
+              35.6587393
+            ],
+            [
+              -105.9663362,
+              35.6588809
+            ],
+            [
+              -105.9664928,
+              35.6588791
+            ],
+            [
+              -105.9664903,
+              35.6587375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/478531458",
+      "properties": {
+        "@id": "way/478531458",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1060",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:levels": "2",
+        "cuisine": "cafeteria",
+        "fast_food": "cafeteria",
+        "name": "Belle and Cora Larson Dining Hall",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9568657,
+              35.6766219
+            ],
+            [
+              -105.9568386,
+              35.6766393
+            ],
+            [
+              -105.9567496,
+              35.6765481
+            ],
+            [
+              -105.9569245,
+              35.6764355
+            ],
+            [
+              -105.9570137,
+              35.676527
+            ],
+            [
+              -105.9569854,
+              35.6765452
+            ],
+            [
+              -105.9570766,
+              35.6766386
+            ],
+            [
+              -105.9570661,
+              35.6766454
+            ],
+            [
+              -105.9571243,
+              35.676705
+            ],
+            [
+              -105.9571896,
+              35.676663
+            ],
+            [
+              -105.9572575,
+              35.6767326
+            ],
+            [
+              -105.957267,
+              35.6767423
+            ],
+            [
+              -105.9572537,
+              35.6767509
+            ],
+            [
+              -105.957285,
+              35.6767829
+            ],
+            [
+              -105.9572041,
+              35.676835
+            ],
+            [
+              -105.9571605,
+              35.6767903
+            ],
+            [
+              -105.9570561,
+              35.6768575
+            ],
+            [
+              -105.9569336,
+              35.6767319
+            ],
+            [
+              -105.9569578,
+              35.6767164
+            ],
+            [
+              -105.9568657,
+              35.6766219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479635440",
+      "properties": {
+        "@id": "way/479635440",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2207",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "mexican",
+        "delivery": "no",
+        "name": "Fast & Real Burritos",
+        "old_name": "Burrito Spot",
+        "outdoor_seating": "no",
+        "phone": "+1-505-474-6202",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9805236,
+              35.6615387
+            ],
+            [
+              -105.9804972,
+              35.6615519
+            ],
+            [
+              -105.9805196,
+              35.6615815
+            ],
+            [
+              -105.9804995,
+              35.6615915
+            ],
+            [
+              -105.9805053,
+              35.6615992
+            ],
+            [
+              -105.9804651,
+              35.6616192
+            ],
+            [
+              -105.9804303,
+              35.661573
+            ],
+            [
+              -105.9804059,
+              35.6615852
+            ],
+            [
+              -105.9803746,
+              35.6615438
+            ],
+            [
+              -105.9803954,
+              35.6615334
+            ],
+            [
+              -105.9803726,
+              35.6615026
+            ],
+            [
+              -105.9803513,
+              35.6614749
+            ],
+            [
+              -105.9803985,
+              35.6614506
+            ],
+            [
+              -105.9804417,
+              35.6614296
+            ],
+            [
+              -105.98045,
+              35.6614408
+            ],
+            [
+              -105.9805236,
+              35.6615387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479816020",
+      "properties": {
+        "@id": "way/479816020",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3029",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Taco Bell",
+        "brand:wikidata": "Q752941",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "drive_through": "yes",
+        "name": "Taco Bell",
+        "opening_hours": "07:00-22:00",
+        "opening_hours:drive_through": "Mo-We 07:00-01:30; Th-Sa 07:00-02:00; Su 07:00-01:30",
+        "opening_hours:url": "https://locations.tacobell.com/nm/santa-fe/3029-cerrillos-road.html",
+        "phone": "+1 505-471-0611",
+        "takeaway": "yes",
+        "website": "https://locations.tacobell.com/nm/santa-fe/3029-cerrillos-road.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9950673,
+              35.6539598
+            ],
+            [
+              -105.9948799,
+              35.653754
+            ],
+            [
+              -105.9949619,
+              35.6537047
+            ],
+            [
+              -105.9951332,
+              35.6538927
+            ],
+            [
+              -105.9950893,
+              35.6539192
+            ],
+            [
+              -105.9951054,
+              35.6539369
+            ],
+            [
+              -105.9950673,
+              35.6539598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/483793034",
+      "properties": {
+        "@id": "way/483793034",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2820",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "West Zia Road",
+        "amenity": "fast_food",
+        "brand": "Blake's Lotaburger",
+        "brand:wikidata": "Q4924308",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "name": "Blake's Lotaburger",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.984922,
+              35.6390135
+            ],
+            [
+              -105.9849554,
+              35.6389986
+            ],
+            [
+              -105.9850238,
+              35.6390996
+            ],
+            [
+              -105.9849308,
+              35.6391412
+            ],
+            [
+              -105.9849321,
+              35.6391431
+            ],
+            [
+              -105.9848819,
+              35.6391656
+            ],
+            [
+              -105.9848804,
+              35.6391633
+            ],
+            [
+              -105.9848083,
+              35.6391956
+            ],
+            [
+              -105.9847406,
+              35.6390955
+            ],
+            [
+              -105.9847644,
+              35.6390848
+            ],
+            [
+              -105.9847477,
+              35.6390601
+            ],
+            [
+              -105.9849057,
+              35.6389895
+            ],
+            [
+              -105.984922,
+              35.6390135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/590002411",
+      "properties": {
+        "@id": "way/590002411",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2778",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Sawmill Road",
+        "amenity": "fast_food",
+        "brand": "Church's Chicken",
+        "brand:wikidata": "Q1089932",
+        "building": "yes",
+        "cuisine": "chicken",
+        "diet:chicken": "yes",
+        "name": "Church's Chicken",
+        "phone": "+1 505-471-7165",
+        "takeaway": "yes",
+        "website": "https://locations.churchs.com/nm/santa-fe/2778-sawmill-road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.959093,
+              35.639508
+            ],
+            [
+              -105.9590866,
+              35.6393531
+            ],
+            [
+              -105.9589815,
+              35.639356
+            ],
+            [
+              -105.958988,
+              35.6395109
+            ],
+            [
+              -105.959093,
+              35.639508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/638973059",
+      "properties": {
+        "@id": "way/638973059",
+        "addr:city": "Santa Fe",
+        "addr:street": "Airport Road",
+        "amenity": "fast_food",
+        "brand": "Burrito Spot",
+        "building": "yes",
+        "cuisine": "mexican;fast_food",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "Burrito Spot Airport",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0355601,
+              35.6373484
+            ],
+            [
+              -106.0355528,
+              35.6373554
+            ],
+            [
+              -106.0355606,
+              35.6373607
+            ],
+            [
+              -106.0355527,
+              35.6373683
+            ],
+            [
+              -106.0355466,
+              35.6373641
+            ],
+            [
+              -106.0355426,
+              35.6373679
+            ],
+            [
+              -106.0355405,
+              35.6373664
+            ],
+            [
+              -106.0355369,
+              35.6373699
+            ],
+            [
+              -106.0355266,
+              35.6373628
+            ],
+            [
+              -106.0355305,
+              35.637359
+            ],
+            [
+              -106.0354527,
+              35.6373056
+            ],
+            [
+              -106.0354549,
+              35.6373034
+            ],
+            [
+              -106.035442,
+              35.6372946
+            ],
+            [
+              -106.0354497,
+              35.6372872
+            ],
+            [
+              -106.0354449,
+              35.6372839
+            ],
+            [
+              -106.0354511,
+              35.637278
+            ],
+            [
+              -106.0354443,
+              35.6372733
+            ],
+            [
+              -106.0354613,
+              35.637257
+            ],
+            [
+              -106.0355305,
+              35.6373045
+            ],
+            [
+              -106.0355162,
+              35.6373182
+            ],
+            [
+              -106.0355601,
+              35.6373484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/668008236",
+      "properties": {
+        "@id": "way/668008236",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1911",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "B",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1 505-986-1300",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nm/santa-fe/1911-st-michaels-dr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9685713,
+              35.6598408
+            ],
+            [
+              -105.9683604,
+              35.659892
+            ],
+            [
+              -105.9682986,
+              35.6597371
+            ],
+            [
+              -105.9685078,
+              35.6596819
+            ],
+            [
+              -105.9685713,
+              35.6598408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/694200842",
+      "properties": {
+        "@id": "way/694200842",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "6419",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "retail",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "07:00-22:00",
+        "phone": "+1 505-474-6557",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/38968.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0435098,
+              35.6364205
+            ],
+            [
+              -106.0435931,
+              35.6364098
+            ],
+            [
+              -106.043596,
+              35.6364248
+            ],
+            [
+              -106.0438642,
+              35.6363903
+            ],
+            [
+              -106.0438615,
+              35.6363762
+            ],
+            [
+              -106.0438698,
+              35.6363752
+            ],
+            [
+              -106.0438627,
+              35.6363387
+            ],
+            [
+              -106.0438528,
+              35.6363399
+            ],
+            [
+              -106.043843,
+              35.6362895
+            ],
+            [
+              -106.0438357,
+              35.6362905
+            ],
+            [
+              -106.043827,
+              35.6362454
+            ],
+            [
+              -106.0437484,
+              35.6362555
+            ],
+            [
+              -106.0437582,
+              35.6363059
+            ],
+            [
+              -106.0435869,
+              35.6363279
+            ],
+            [
+              -106.0434941,
+              35.6363398
+            ],
+            [
+              -106.0435098,
+              35.6364205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705359496",
+      "properties": {
+        "@id": "way/705359496",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2400",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "branch": "Cerrillos Road",
+        "brand": "Chick-fil-A",
+        "brand:wikidata": "Q491516",
+        "building": "yes",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Chick-fil-A",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su off",
+        "phone": "+1 505-424-2269",
+        "ref": "03936",
+        "takeaway": "yes",
+        "website": "https://www.chick-fil-a.com/locations/nm/cerrillos-road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9811653,
+              35.6600363
+            ],
+            [
+              -105.9809794,
+              35.6597942
+            ],
+            [
+              -105.9810277,
+              35.6597701
+            ],
+            [
+              -105.9810375,
+              35.6597648
+            ],
+            [
+              -105.9810255,
+              35.6597491
+            ],
+            [
+              -105.9810822,
+              35.6597204
+            ],
+            [
+              -105.981293,
+              35.6599949
+            ],
+            [
+              -105.9812492,
+              35.6600171
+            ],
+            [
+              -105.9812363,
+              35.6600003
+            ],
+            [
+              -105.9811653,
+              35.6600363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705359549",
+      "properties": {
+        "@id": "way/705359549",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3151",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "brand": "Wendy's",
+        "brand:wikidata": "Q550258",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "Wendy's",
+        "opening_hours": "07:30-22:00",
+        "opening_hours:drive_through": "Mo-Su 06:30-00:00",
+        "phone": "+1 505-557-4106",
+        "takeaway": "yes",
+        "website": "https://locations.wendys.com/united-states/nm/santa-fe/3151-cerrillos-road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9963726,
+              35.6529105
+            ],
+            [
+              -105.9965747,
+              35.6531372
+            ],
+            [
+              -105.9966499,
+              35.6530929
+            ],
+            [
+              -105.9964479,
+              35.6528662
+            ],
+            [
+              -105.9963726,
+              35.6529105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/713809713",
+      "properties": {
+        "@id": "way/713809713",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "barbecue",
+        "drive_through": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9768484,
+              35.6625145
+            ],
+            [
+              -105.9768335,
+              35.6625583
+            ],
+            [
+              -105.9768062,
+              35.6625522
+            ],
+            [
+              -105.9768211,
+              35.6625084
+            ],
+            [
+              -105.9768484,
+              35.6625145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/726550871",
+      "properties": {
+        "@id": "way/726550871",
+        "amenity": "fast_food",
+        "brand": "Blake's Lotaburger",
+        "brand:wikidata": "Q4924308",
+        "cuisine": "burger",
+        "landuse": "commercial",
+        "name": "Blake's Lotaburger",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.028947,
+              35.6377709
+            ],
+            [
+              -106.0288668,
+              35.6375882
+            ],
+            [
+              -106.0291372,
+              35.637556
+            ],
+            [
+              -106.0290671,
+              35.6373995
+            ],
+            [
+              -106.0298893,
+              35.6372867
+            ],
+            [
+              -106.0300235,
+              35.6376153
+            ],
+            [
+              -106.028947,
+              35.6377709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/799255699",
+      "properties": {
+        "@id": "way/799255699",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1260",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Siler Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "tacos;mexican",
+        "delivery": "no",
+        "name": "Tacos Y Mas",
+        "shop": "street_vendor",
+        "street_vendor": "food_truck",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9933,
+              35.6584274
+            ],
+            [
+              -105.9933152,
+              35.6584443
+            ],
+            [
+              -105.9932846,
+              35.6584625
+            ],
+            [
+              -105.9932694,
+              35.6584456
+            ],
+            [
+              -105.9933,
+              35.6584274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/976663831",
+      "properties": {
+        "@id": "way/976663831",
+        "addr:housenumber": "3565",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taqueria Adelitas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0069515,
+              35.6464014
+            ],
+            [
+              -106.0069165,
+              35.6462938
+            ],
+            [
+              -106.0067927,
+              35.6463722
+            ],
+            [
+              -106.0068108,
+              35.6464326
+            ],
+            [
+              -106.0069515,
+              35.6464014
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

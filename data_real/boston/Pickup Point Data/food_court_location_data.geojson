@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "university_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/29931141", "amenity": "food_court", "building": "retail", "name": "88 Food Connection", "GEOID": "25025000802" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.1251702, 42.3526953 ], [ -71.1252496, 42.3523416 ], [ -71.125614, 42.3523863 ], [ -71.1255345, 42.35274 ], [ -71.1251702, 42.3526953 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/814638590", "amenity": "food_court", "building": "yes", "name": "The Exchange", "GEOID": "25025070101" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.0555733, 42.354814 ], [ -71.0556591, 42.3552925 ], [ -71.0555494, 42.3553462 ], [ -71.0551679, 42.3549652 ], [ -71.0554283, 42.354848 ], [ -71.0555733, 42.354814 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/838831138", "amenity": "food_court", "building": "yes", "name": "Eataly", "GEOID": "25025010600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.082996, 42.347731 ], [ -71.0824447, 42.3478793 ], [ -71.0823701, 42.3477275 ], [ -71.0829191, 42.3475774 ], [ -71.082996, 42.347731 ] ] ] } }
+]
+}

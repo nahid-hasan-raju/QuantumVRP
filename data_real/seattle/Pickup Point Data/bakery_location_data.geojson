@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/189443271", "amenity": null, "building": "yes", "name": "Moonrise Bakery", "shop": "bakery", "GEOID": "53033006800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3574895, 47.6350283 ], [ -122.3572534, 47.6350223 ], [ -122.3572561, 47.6349423 ], [ -122.357494, 47.6349458 ], [ -122.3574895, 47.6350283 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/223357451", "amenity": null, "building": "retail", "name": "Saint Bread", "shop": "bakery", "GEOID": "53033005302" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3131138, 47.6504453 ], [ -122.3131719, 47.6505008 ], [ -122.3129623, 47.6506003 ], [ -122.3129333, 47.6505726 ], [ -122.3129042, 47.6505448 ], [ -122.3131138, 47.6504453 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/228457361", "amenity": null, "building": "yes", "name": "The Flora Bakehouse", "shop": "bakery", "GEOID": "53033010402" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3127332, 47.5533594 ], [ -122.3127339, 47.5532763 ], [ -122.3127536, 47.5532764 ], [ -122.3127539, 47.553251 ], [ -122.3128402, 47.5532514 ], [ -122.31284, 47.5532777 ], [ -122.312857, 47.5532778 ], [ -122.3128562, 47.5533599 ], [ -122.3127332, 47.5533594 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/396606875", "amenity": null, "building": null, "name": "The Sourdough Bakery", "shop": "bakery", "GEOID": "53033008100" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3411829, 47.6060771 ], [ -122.3412364, 47.6061043 ], [ -122.3413397, 47.6061043 ], [ -122.3413397, 47.6062193 ], [ -122.3411963, 47.6062189 ], [ -122.3411829, 47.6062189 ], [ -122.3411829, 47.6060771 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/397567935", "amenity": null, "building": "yes", "name": "Despi Delite Bakery", "shop": "bakery", "GEOID": "53033010002" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3135513, 47.5793476 ], [ -122.3135514, 47.5792689 ], [ -122.3136643, 47.579269 ], [ -122.3136644, 47.5792075 ], [ -122.3138359, 47.5792075 ], [ -122.3138357, 47.5794048 ], [ -122.3135331, 47.5794046 ], [ -122.3135332, 47.5793476 ], [ -122.3135513, 47.5793476 ] ] ] } }
+]
+}

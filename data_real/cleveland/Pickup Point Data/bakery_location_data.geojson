@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/202864696", "building": "yes", "name": "Presti's Bakery", "shop": "bakery", "GEOID": "39035118800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.5983927, 41.5087447 ], [ -81.5982126, 41.5087447 ], [ -81.5982125, 41.5089148 ], [ -81.5982125, 41.5089337 ], [ -81.5982125, 41.5089807 ], [ -81.5983926, 41.5089807 ], [ -81.5983927, 41.5087447 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/423428809", "building": "yes", "name": "M & M Donut Shop", "shop": "bakery", "GEOID": "39035115700" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.6390679, 41.4469833 ], [ -81.6389275, 41.446984 ], [ -81.6389264, 41.4468651 ], [ -81.6391006, 41.4468643 ], [ -81.6391009, 41.4468922 ], [ -81.6392008, 41.4468917 ], [ -81.6392014, 41.4469585 ], [ -81.6390813, 41.4469591 ], [ -81.6390679, 41.4469833 ] ] ] } }
+]
+}

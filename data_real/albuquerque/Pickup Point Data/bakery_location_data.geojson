@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/491219771", "building": "yes", "name": "Rude Boy Cookies", "shop": "bakery", "GEOID": "35001001600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -106.6249604, 35.0810106 ], [ -106.6249906, 35.0808474 ], [ -106.6247604, 35.0808189 ], [ -106.6247302, 35.080982 ], [ -106.6249604, 35.0810106 ] ] ] } }
+]
+}

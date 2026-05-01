@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+
+# Generated data and results (keep directories via .gitkeep)
+data_synthetic/*
+!data_synthetic/.gitkeep
+data_real/*/cache/*
+!data_real/*/cache/.gitkeep
+results/*
+!results/.gitkeep
+!results/synthetic/.gitkeep
+!results/real/.gitkeep
+
+# Not tracked
+archive/
+scripts/
+CLAUDE.md
+city_data_generation/census_raw/

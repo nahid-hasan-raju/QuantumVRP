@@ -1,0 +1,7637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/472503289",
+      "properties": {
+        "@id": "node/472503289",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "409",
+        "addr:state": "NM",
+        "addr:street": "West Water Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Casa Chimayo Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.944032,
+              35.688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115061977",
+      "properties": {
+        "@id": "node/2115061977",
+        "addr:city": "Santa Fe",
+        "addr:housename": "Palace Restaurant and Saloon",
+        "addr:housenumber": "142",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Palace Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Palace Prime",
+        "old_name": "Palace Restaurant and Saloon",
+        "source": "local_knowledge",
+        "website": "http://www.palacesantafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940442,
+              35.6881259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3073680993",
+      "properties": {
+        "@id": "node/3073680993",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "930",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Baca Street",
+        "amenity": "restaurant",
+        "cuisine": "american;new_mexican;mexican",
+        "drive_in": "no",
+        "internet_access:fee": "no",
+        "microbrewery": "no",
+        "name": "Counter Culture Cafe",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "organic": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+15059951105",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.counterculturesantafe.com/home",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.962926,
+              35.672777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163223005",
+      "properties": {
+        "@id": "node/3163223005",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "54",
+        "addr:street": "Lincoln Avenue",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "american",
+        "name": "Plaza Cafe",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1 505 982 1664",
+        "website": "https://www.plazacafedowntown.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9391673,
+              35.687444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3195181745",
+      "properties": {
+        "@id": "node/3195181745",
+        "addr:housenumber": "210",
+        "addr:street": "West San Francisco Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "facebook": "Tia-Sophias-Restaurant/102956971769",
+        "name": "Tia Sophia's Restaurant",
+        "opening_hours": "Mo-Sa 07:00-14:00; Su 08:00-13:00",
+        "phone": "+1 505 983 9880",
+        "short_name": "Sophia's",
+        "wikidata": "Q135910261",
+        "wikimedia_commons": "Category:Tia_Sophia's_Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.941036,
+              35.6875337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4032210935",
+      "properties": {
+        "@id": "node/4032210935",
+        "addr:housenumber": "121",
+        "addr:street": "Don Gaspar Avenue",
+        "amenity": "restaurant",
+        "contact:phone": "+1 505 983 9340",
+        "cuisine": "mexican",
+        "name": "Cafe Pasqual's",
+        "wikidata": "Q120068946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9396524,
+              35.686594
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4215678089",
+      "properties": {
+        "@id": "node/4215678089",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "505",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "description": "Mediterranean, Greek, Tunisian",
+        "email": "info@pyramidcafesf.com",
+        "name": "Pyramid Cafe",
+        "name:en": "Pyramid Cafe",
+        "opening_hours": "Mo-Sa 11:00-14:30, 16:00-20:30",
+        "phone": "+1 505-989-1378",
+        "takeaway": "yes",
+        "website": "https://www.pyramidcafesf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9494219,
+              35.673247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4215809645",
+      "properties": {
+        "@id": "node/4215809645",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "A5",
+        "amenity": "restaurant",
+        "cuisine": "diner;american",
+        "description": "local",
+        "diet:organic": "yes",
+        "name": "Joe's Dining",
+        "phone": "+1 505-471-3800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9840896,
+              35.6394376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4251906189",
+      "properties": {
+        "@id": "node/4251906189",
+        "addr:housenumber": "1620",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Annapurna\u2019s World Vegetarian Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9746281,
+              35.6586589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4571036859",
+      "properties": {
+        "@id": "node/4571036859",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "113",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East Water Street",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "level": "0",
+        "name": "The Wrap",
+        "old_name": "Sushi Land East;Fortune Maki",
+        "outdoor_seating": "yes",
+        "ref": "102",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9393002,
+              35.6864802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4571036863",
+      "properties": {
+        "@id": "node/4571036863",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "50",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East San Francisco Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "american",
+        "level": "1",
+        "name": "San Francisco Street Bar & Grill",
+        "name_1": "Lone Spur Cafe",
+        "old_name": "San Francisco Street Bar & Grill",
+        "old_phone": "+1-505-982-2044",
+        "old_website": "http://www.sanfranbargrill.com/",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.939483,
+              35.6871916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4576222457",
+      "properties": {
+        "@id": "node/4576222457",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "724",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Canyon Road",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Geronimo",
+        "opening_hours": "17:30-21:30",
+        "phone": "+1-505-982-1500",
+        "website": "https://www.geronimorestaurant.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9253676,
+              35.6805644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4578410213",
+      "properties": {
+        "@id": "node/4578410213",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "839",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "addr:unit": "H",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Tulsi",
+        "old_cuisine": "mexican",
+        "old_name": "Mucho Gusto",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9331658,
+              35.6851253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4578436727",
+      "properties": {
+        "@id": "node/4578436727",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "311",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Old Santa Fe Trail",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "indoor_seating": "yes",
+        "name": "Zeng Restaurant",
+        "note": "Moved to new location on St. Michael's",
+        "outdoor_seating": "terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9374236,
+              35.6844534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4582137023",
+      "properties": {
+        "@id": "node/4582137023",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "50",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Lincoln Avenue",
+        "amenity": "restaurant",
+        "capacity": "175",
+        "cuisine": "mexican;american",
+        "name": "Thunderbird Bar & Grill",
+        "opening_hours": "Mo-Th, Su 11:30-21:00; Fr, Sa 11:30-22:00",
+        "outdoor_seating": "balcony",
+        "phone": "+1-505-490-6550",
+        "website": "https://www.thunderbirdsantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.939214,
+              35.6873317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4582144484",
+      "properties": {
+        "@id": "node/4582144484",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "112",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West San Francisco Street",
+        "addr:unit": "101",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "level": "0",
+        "name": "La Fogata Grill",
+        "phone": "+1-505-983-7302",
+        "website": "http://places.singleplatform.com/la-fogata-grill-3/menu?ref=google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940208,
+              35.6871392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4582201492",
+      "properties": {
+        "@id": "node/4582201492",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "321",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West San Francisco Street",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "pizza",
+        "name": "Il Vicino Wood Oven Pizza",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+        "phone": "+1-505-986-8700",
+        "website": "http://ilvicino.com/santa-fe-nm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9427308,
+              35.688227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4673538625",
+      "properties": {
+        "@id": "node/4673538625",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "522",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "cafeteria;buffet",
+        "fast_food": "cafeteria",
+        "name": "Furr's Family Dining",
+        "opening_hours": "11:00-20:00",
+        "website": "http://www.furrs.net/furrs-buffet-menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.952063,
+              35.672783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4691581634",
+      "properties": {
+        "@id": "node/4691581634",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "720",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "Q",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Chow's Asian Bistro",
+        "website": "https://mychows.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9613012,
+              35.6582805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4691581635",
+      "properties": {
+        "@id": "node/4691581635",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "730",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "3F",
+        "amenity": "restaurant",
+        "cuisine": "african;caribbean",
+        "disused:cuisine": "pub",
+        "name": "Farafina",
+        "old_name": "Loyal Hound",
+        "old_phone": "+1-505-471-0440",
+        "old_website": "https://www.loyalhoundpub.com/",
+        "opening_hours": "Tu-Su 16:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9611706,
+              35.6589985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4691618623",
+      "properties": {
+        "@id": "node/4691618623",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1807",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "2nd Street",
+        "addr:unit": "1",
+        "amenity": "restaurant",
+        "building:levels": "2",
+        "cuisine": "pizza",
+        "level": "0",
+        "name": "Back Roads Pizza",
+        "opening_hours": "11:30-21:00; Fr,Sa 11:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-955-9055",
+        "takeaway": "yes",
+        "website": "https://backroadpizza.com/menus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.965066,
+              35.6627635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4698862291",
+      "properties": {
+        "@id": "node/4698862291",
+        "addr:housenumber": "3005",
+        "addr:street": "South Saint Francis Drive",
+        "addr:unit": "3D",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "The Double Dragon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9541011,
+              35.6452971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4700353320",
+      "properties": {
+        "@id": "node/4700353320",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "231",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Washington Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "email": "deedlejfe@gmail.com",
+        "name": "Santacaf\u00e9",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-984-1788",
+        "start_date": "1983",
+        "strapline": "Santa Fe Sophistication",
+        "website": "https://santacafe.com/",
+        "wikidata": "Q17030608",
+        "wikipedia": "en:Santacaf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9364391,
+              35.6902022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4702458223",
+      "properties": {
+        "@id": "node/4702458223",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "105",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East Marcy Street",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Izmi Sushi",
+        "phone": "+1-505-424-1311",
+        "takeaway": "yes",
+        "website": "http://www.izmisantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.936644,
+              35.6891756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4742340921",
+      "properties": {
+        "@id": "node/4742340921",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "321",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Johnson Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pranzo",
+        "old_name": "Shohko Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.943582,
+              35.6895677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743015984",
+      "properties": {
+        "@id": "node/4743015984",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "304",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Johnson Street",
+        "amenity": "restaurant",
+        "cuisine": "wine",
+        "description": "TerraCotta Wine Bistro is a smart casual food and wine restaurant.",
+        "email": "info@terracottawinebistro.com",
+        "name": "TerraCotta Wine Bistro",
+        "opening_hours": "Mo-Sa 11:30-21:00; Su 16:00-21:00",
+        "phone": "+1-505-989-1166",
+        "website": "https://terracottawinebistro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9426177,
+              35.6890956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743015987",
+      "properties": {
+        "@id": "node/4743015987",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "309",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West San Francisco Street",
+        "amenity": "restaurant",
+        "name": "Old House Restaurant",
+        "opening_hours": "Mo 06:30-14:00; Tu-Fr 06:30-14:00,17:30-22:00; Sa 06:30-12:00,17:30-22:00; Su 06:30-12:00",
+        "phone": "+1-505-995-4530",
+        "website": "https://www.eldoradohotel.com/old-house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.94196,
+              35.6888831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743112840",
+      "properties": {
+        "@id": "node/4743112840",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "227",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Don Gaspar Avenue",
+        "amenity": "restaurant",
+        "cuisine": "taiwanese;vietnamese",
+        "email": "info@alkeme-santafe.com",
+        "facebook": "alkemeatopenkitchen",
+        "instagram": "alkeme.santafe",
+        "name": "Alkem\u0113",
+        "opening_hours": "Tu-Sa 17:00-20:45",
+        "phone": "+1-505-982-9704",
+        "start_date": "2023-6",
+        "website": "https://alkeme-santafe.com",
+        "wikidata": "Q124359306",
+        "wikipedia": "en:Alkem\u0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.939751,
+              35.6854309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743112847",
+      "properties": {
+        "@id": "node/4743112847",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "210",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Don Gaspar Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "delivery": "yes",
+        "name": "Tabla de los Santos",
+        "phone": "+1-505-992-6354",
+        "website": "http://tablasantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9400288,
+              35.6863809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743141240",
+      "properties": {
+        "@id": "node/4743141240",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "227",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Don Gaspar Avenue",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "indian",
+        "name": "India Palace",
+        "opening_hours": "Mo-Su 11:00-14:30, 17:00-22:00",
+        "phone": "+1-505-986-5859",
+        "website": "http://places.singleplatform.com/india-palace-15/menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.938919,
+              35.6857737
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743141242",
+      "properties": {
+        "@id": "node/4743141242",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "125",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Washington Avenue",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "email": "info@estevanrestaurante.com",
+        "name": "Estevan",
+        "phone": "+1-505-930-5363",
+        "website": "https://www.estevanrestaurante.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9371595,
+              35.6883044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743191470",
+      "properties": {
+        "@id": "node/4743191470",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "101",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "addr:unit": "5",
+        "amenity": "restaurant",
+        "cuisine": "regional;mexican",
+        "name": "Tres Colores",
+        "opening_hours": "Mo-Sa 08:30-19:00; Su 11:00-19:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-490-0296",
+        "takeaway": "yes",
+        "website": "http://facebook.com/Tres-Colores-992159257485682/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9379702,
+              35.689532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743191471",
+      "properties": {
+        "@id": "node/4743191471",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "95",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Horno",
+        "old_name": "Il Piatto (closed)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9374607,
+              35.6893583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743198077",
+      "properties": {
+        "@id": "node/4743198077",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "72",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "La Boca",
+        "phone": "+1-505-982-3433",
+        "website": "http://www.labocasantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9378863,
+              35.6892414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743367996",
+      "properties": {
+        "@id": "node/4743367996",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "132",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Water Street",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "level": "1",
+        "name": "Coyote Cafe & Rooftop Cantina",
+        "name:etymology": "Coyote",
+        "name:etymology:wikidata": "Q3001901",
+        "phone": "+1 505 983 1615",
+        "website": "https://coyotecafe.com",
+        "wikidata": "Q133862591",
+        "wikimedia_commons": "Category:Coyote Cafe and Cantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940539,
+              35.6866051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4743376394",
+      "properties": {
+        "@id": "node/4743376394",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "111",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Washington Avenue",
+        "amenity": "restaurant",
+        "cuisine": "burrito;mexican",
+        "name": "Burrito Company",
+        "opening_hours": "Mo-Fr 07:30-16:00; Sa,Su 08:00-16:30",
+        "operator": "Alex Castro",
+        "operator:source": "https://sfreporter.com/food/nice-to-re-meet-you",
+        "phone": "+1 505 982 4453",
+        "takeaway": "yes",
+        "website": "https://burritocompanysf.com",
+        "wikidata": "Q135910842",
+        "wikimedia_commons": "Category:The Burrito Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9373873,
+              35.6879538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4771034421",
+      "properties": {
+        "@id": "node/4771034421",
+        "amenity": "restaurant",
+        "name": "Cafe Grazie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0120685,
+              35.6402514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4773385435",
+      "properties": {
+        "@id": "node/4773385435",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "501",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Saigon Cafe",
+        "opening_hours": "Mo-Fr 11:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://saigoncafe-sf.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9492679,
+              35.673222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4773516145",
+      "properties": {
+        "@id": "node/4773516145",
+        "addr:housenumber": "537",
+        "addr:postcode": "87505",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican;seafood",
+        "name": "Mariscos La Playa",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "website": "http://mariscoslaplayarestaurant.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9506443,
+              35.6731084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4773847541",
+      "properties": {
+        "@id": "node/4773847541",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "551",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "email": "eat@paper-dosa.com",
+        "name": "Paper Dosa",
+        "phone": "+1-505-930-5521",
+        "website": "https://www.paper-dosa.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9523912,
+              35.6742002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4988257544",
+      "properties": {
+        "@id": "node/4988257544",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "504",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "addr:unit": "A",
+        "alt_name": "The New Baking Co.",
+        "amenity": "restaurant",
+        "cuisine": "american;mexican;cafe;bakery;burrito",
+        "name": "The New Baking Company",
+        "old_name": "Santa Fe Baking Co",
+        "opening_hours": "Mo-Su 07:00-15:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-557-6435",
+        "takeaway": "yes",
+        "website": "http://thenewbakingco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.950881,
+              35.6726004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5094977882",
+      "properties": {
+        "@id": "node/5094977882",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "28",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Burro Alley",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Los Magueyes Mexican Restaurant",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su 11:00-22:00",
+        "phone": "+1-505-992-0304",
+        "website": "http://los-magueyes.letseat.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9408047,
+              35.6880881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5099021234",
+      "properties": {
+        "@id": "node/5099021234",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2875",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "new_mexican;seafood;mexican",
+        "name": "Mariscos Costa Azul",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+1-505-473-4594",
+        "website": "http://www.mariscoscostaazul.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.990046,
+              35.6565468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106056910",
+      "properties": {
+        "@id": "node/5106056910",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "193",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "mexican;new_mexican",
+        "name": "Atrisco Cafe & Bar",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su 08:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1-505-983-7401",
+        "website": "https://www.atriscocafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9501458,
+              35.6922358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106059787",
+      "properties": {
+        "@id": "node/5106059787",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "510",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "restaurant",
+        "cuisine": "asian;fusion",
+        "name": "Jinja Bar & Bistro",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
+        "phone": "+1-505-982-4321",
+        "website": "https://www.jinjabistro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9518808,
+              35.6950629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106059788",
+      "properties": {
+        "@id": "node/5106059788",
+        "addr:housenumber": "604",
+        "addr:street": "North Guadalupe Street",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Crackin' Crab",
+        "old_amenity": "restaurant",
+        "old_name": "Five Star Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.950869,
+              35.6948015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106085543",
+      "properties": {
+        "@id": "node/5106085543",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "163",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "peruvian",
+        "email": "saborperuanosf@gmail.com",
+        "name": "Sabor Peruano",
+        "outdoor_seating": "no",
+        "phone": "+1-505-358-3829",
+        "website": "https://www.saborperuanosf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9509207,
+              35.6923651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5106100393",
+      "properties": {
+        "@id": "node/5106100393",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "151",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Etc. (moved)",
+        "note": "now at 68 Cities of Gold Road in Pojoaque",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "phone": "+1-505-986-1500",
+        "website": "https://pizzaetc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9498334,
+              35.6929207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5115613993",
+      "properties": {
+        "@id": "node/5115613993",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "500",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "South Guadalupe Street",
+        "amenity": "restaurant",
+        "cuisine": "regional;new_mexican;mexican",
+        "name": "Tomasita\u2019s",
+        "official_name": "Tomasita\u2019s Restaurant & Bar",
+        "outdoor_seating": "yes",
+        "start_date": "1974",
+        "website": "https://tomasitas.com",
+        "wikidata": "Q135969608",
+        "wikimedia_commons": "Category:Tomasita's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9464187,
+              35.6839296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5383042754",
+      "properties": {
+        "@id": "node/5383042754",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1622",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "name": "Anthony\u2019s Grill",
+        "phone": "+1 505 438 1163",
+        "website": "https://agniayurveda.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.974593,
+              35.6585741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5585491375",
+      "properties": {
+        "@id": "node/5585491375",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "418",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "name": "Pizza Centro",
+        "opening_hours": "Mo-Su 11:30-20:30",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-988-8825",
+        "takeaway": "yes",
+        "website": "https://www.pizzacentronys.com/downtown-menu.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9433765,
+              35.6839614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5585491376",
+      "properties": {
+        "@id": "node/5585491376",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "418",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "greek;mediterranean;gyros",
+        "name": "Cleopatra Cafe",
+        "opening_hours": "11:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+1-505-820-7381",
+        "takeaway": "yes",
+        "website": "https://www.cleopatrasantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9436518,
+              35.6840002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5585499427",
+      "properties": {
+        "@id": "node/5585499427",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "418",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Yin Yang Buffet",
+        "opening_hours": "Mo-Th 11:30-20:30; Fr,Sa 11:30-21:00; Su 12:00-20:00",
+        "phone": "+1-505-986-9279",
+        "website": "https://www.santafeyinyang.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9434832,
+              35.6838545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5857551272",
+      "properties": {
+        "@id": "node/5857551272",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "150",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Washington Avenue",
+        "addr:unit": "108",
+        "amenity": "restaurant",
+        "check_date": "2025-04-10",
+        "cuisine": "steak_house",
+        "name": "The Bull Ring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9376618,
+              35.6887663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6392074286",
+      "properties": {
+        "@id": "node/6392074286",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4354",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "internet_access": "wlan",
+        "name": "Horseman's Haven Cafe",
+        "opening_hours": "Mo-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0200502,
+              35.6328656
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6410917556",
+      "properties": {
+        "@id": "node/6410917556",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "204",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "italian;pizza;gelato;beer;burger",
+        "microbrewery": "yes",
+        "name": "Pizzeria & Trattoria da Lino",
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "operator": "Lino Pertusini",
+        "phone": "+1-505-982-8474",
+        "product": "pizza;pasta;wine;beer;gelato",
+        "website": "https://pizzeriadalino.square.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9439484,
+              35.6894994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6413025181",
+      "properties": {
+        "@id": "node/6413025181",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "945",
+        "addr:state": "NM",
+        "addr:street": "West Alameda Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Valentina's",
+        "note": "backwards apostrophe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.959351,
+              35.6891029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6485147218",
+      "properties": {
+        "@id": "node/6485147218",
+        "amenity": "restaurant",
+        "name": "Hilltop Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9536642,
+              35.6989987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6486827366",
+      "properties": {
+        "@id": "node/6486827366",
+        "addr:housenumber": "401",
+        "addr:street": "South Guadalupe Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "check_date": "2023-06-06",
+        "cuisine": "mexican",
+        "name": "Paloma",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9456088,
+              35.6847004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6486827367",
+      "properties": {
+        "@id": "node/6486827367",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "319",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "South Guadalupe Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "barbecue",
+        "name": "Cowgirl",
+        "opening_hours": "Mo-Th, Su 11:30-21:00; Fr, Sa 11:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 505 982-2565",
+        "website": "https://cowgirlsantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.944975,
+              35.6858185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6492284741",
+      "properties": {
+        "@id": "node/6492284741",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3134",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Agua Fria Street",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "Uncle DT's",
+        "old_name": "MAMA's World Take-Out",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.996878,
+              35.6555622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6516835696",
+      "properties": {
+        "@id": "node/6516835696",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "name": "Kohnami Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9450214,
+              35.6860616
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6516913937",
+      "properties": {
+        "@id": "node/6516913937",
+        "amenity": "restaurant",
+        "name": "Raaga-Go Indian Takeout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9382582,
+              35.6833419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6534332510",
+      "properties": {
+        "@id": "node/6534332510",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "name": "Dinner For Two"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9436027,
+              35.6880528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6534344018",
+      "properties": {
+        "@id": "node/6534344018",
+        "addr:housenumber": "451",
+        "addr:street": "West Alameda Street",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Mille French Cafe & Creperie",
+        "opening_hours": "We-Su 07:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9452516,
+              35.6879202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6534344020",
+      "properties": {
+        "@id": "node/6534344020",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "check_date": "2023-06-06",
+        "name": "Agave Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9424809,
+              35.6881861
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6536091406",
+      "properties": {
+        "@id": "node/6536091406",
+        "addr:city": "Santa Fe",
+        "addr:state": "NM",
+        "amenity": "restaurant",
+        "cuisine": "bagel;coffee_shop;deli;regional",
+        "name": "New York on Catron",
+        "old_name": "New York Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.943781,
+              35.6908219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577793107",
+      "properties": {
+        "@id": "node/6577793107",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Rice Village",
+        "ref": "1322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0138369,
+              35.6356842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577793119",
+      "properties": {
+        "@id": "node/6577793119",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4246",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Applebee's Neighborhood Grill & Bar",
+        "brand:wikidata": "Q621532",
+        "cuisine": "american",
+        "name": "Applebee's",
+        "official_name": "Applebee's Neighborhood Grill & Bar",
+        "phone": "+1 505-473-7551",
+        "website": "https://restaurants.applebees.com/en-us/nm/santa-fe/4246-cerrillos-road-84072",
+        "website:menu": "https://www.applebees.com/en/menu?StoreNumber=84072&action=viewmenu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0183375,
+              35.6362797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577793262",
+      "properties": {
+        "@id": "node/6577793262",
+        "addr:housenumber": "133",
+        "addr:street": "West San Francisco Street",
+        "amenity": "restaurant",
+        "name": "Apothecary",
+        "old_name": "Oxygen Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9404168,
+              35.6875681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577812343",
+      "properties": {
+        "@id": "node/6577812343",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "208",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Galisteo Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "El Callejon",
+        "phone": "+1-505-983-8378",
+        "website": "https://www.elcallejonsantafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.941162,
+              35.6864513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577834395",
+      "properties": {
+        "@id": "node/6577834395",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "209",
+        "addr:postcode": "87501",
+        "addr:street": "East Palace Avenue",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Palacio Cafe",
+        "opening_hours": "07:30-16:00; Tu off",
+        "phone": "+1 505 989 3505",
+        "website": "http://www.palaciosantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.935312,
+              35.6870518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577834397",
+      "properties": {
+        "@id": "node/6577834397",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "113",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East Palace Avenue",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "mexican",
+        "name": "The Shed",
+        "wikidata": "Q120068947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9369913,
+              35.6874544
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577834404",
+      "properties": {
+        "@id": "node/6577834404",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Osteria D'Assisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9371748,
+              35.6901172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6604103734",
+      "properties": {
+        "@id": "node/6604103734",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "919",
+        "addr:state": "NM",
+        "addr:street": "West Alameda Street",
+        "alt_name": "Pho Kim",
+        "amenity": "restaurant",
+        "check_date": "2025-04-11",
+        "cuisine": "asian",
+        "indoor_seating": "yes",
+        "name": "Ph\u1edf Kim",
+        "name:en": "Pho Kim",
+        "name:vi": "Ph\u1edf Kim",
+        "outdoor_seating": "veranda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.958954,
+              35.6891553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6604103737",
+      "properties": {
+        "@id": "node/6604103737",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "927",
+        "addr:state": "NM",
+        "addr:street": "West Alameda Street",
+        "amenity": "restaurant",
+        "check_date": "2025-04-11",
+        "cuisine": "sushi",
+        "name": "Masa Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.959049,
+              35.6891664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612559223",
+      "properties": {
+        "@id": "node/6612559223",
+        "amenity": "restaurant",
+        "name": "Pink Adobe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.938112,
+              35.6835037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612559225",
+      "properties": {
+        "@id": "node/6612559225",
+        "addr:street": "Old Santa Fe Trail",
+        "amenity": "restaurant",
+        "check_date": "2025-04-13",
+        "cuisine": "wine;french",
+        "name": "315",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.93765,
+              35.6840291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612559228",
+      "properties": {
+        "@id": "node/6612559228",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "229",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Galisteo Street",
+        "amenity": "restaurant",
+        "contact:instagram": "pantry_rio",
+        "cuisine": "american;regional",
+        "diet:vegetarian": "single_dish",
+        "email": "pantryrio@gmail.com",
+        "facebook": "100063570254104",
+        "name": "The Pantry Rio",
+        "old_name": "L'Olivier",
+        "opening_hours": "Mo-Su 07:30-14:30",
+        "phone": "+1-505-989-1919",
+        "vegetarian": "dubious",
+        "website": "https://pantryrio.com",
+        "yelp": "the-pantry-rio-santa-fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.941271,
+              35.6857535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6612576081",
+      "properties": {
+        "@id": "node/6612576081",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "233",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East Canyon Road",
+        "amenity": "restaurant",
+        "name": "Caffe Greco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9332575,
+              35.6831853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6615412166",
+      "properties": {
+        "@id": "node/6615412166",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "526",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Galisteo Street",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Restaurant Mart\u00edn",
+        "phone": "+1-505-820-0919",
+        "website": "https://restaurantmartin.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.943281,
+              35.681509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953347",
+      "properties": {
+        "@id": "node/6626953347",
+        "amenity": "restaurant",
+        "brand": "Outback Steakhouse",
+        "brand:wikidata": "Q1064893",
+        "cuisine": "american;steak",
+        "name": "Outback Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0168168,
+              35.6371761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953348",
+      "properties": {
+        "@id": "node/6626953348",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4250",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "phone": "+1 505-473-3536",
+        "website": "https://locations.pizzahut.com/nm/santa-fe/4250-cerrillos-rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0164062,
+              35.6379261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953349",
+      "properties": {
+        "@id": "node/6626953349",
+        "amenity": "restaurant",
+        "brand": "Red Lobster",
+        "brand:wikidata": "Q846301",
+        "cuisine": "seafood",
+        "name": "Red Lobster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0157882,
+              35.6379228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953351",
+      "properties": {
+        "@id": "node/6626953351",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4250",
+        "addr:postcode": "87507-4697",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "D",
+        "amenity": "restaurant",
+        "cuisine": "mexican;new_mexican;regional",
+        "diet:non-vegetarian": "yes",
+        "name": "Flying Tortilla",
+        "phone": "+1 505 424 1680",
+        "website": "https://flyingtortillasantafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.018692,
+              35.6355946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953461",
+      "properties": {
+        "@id": "node/6626953461",
+        "addr:housenumber": "3466",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "new_mexican;mexican;burger;american",
+        "name": "Plaza Cafe South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0164313,
+              35.6428283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953462",
+      "properties": {
+        "@id": "node/6626953462",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3470",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "cuisine": "sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.016465,
+              35.642421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953463",
+      "properties": {
+        "@id": "node/6626953463",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3470",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.016582,
+              35.6425441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953464",
+      "properties": {
+        "@id": "node/6626953464",
+        "addr:housenumber": "3462",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Santa Fe Capitol Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0160982,
+              35.6427013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6626953466",
+      "properties": {
+        "@id": "node/6626953466",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "El Milagro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0156595,
+              35.6427614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6629919094",
+      "properties": {
+        "@id": "node/6629919094",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "153A",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "check_date": "2023-06-06",
+        "cuisine": "mexican",
+        "name": "El Sabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9517793,
+              35.6924402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6654286630",
+      "properties": {
+        "@id": "node/6654286630",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1616",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Santa Fe Bite",
+        "old_name": "Tecolote Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9746472,
+              35.6589381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6656063065",
+      "properties": {
+        "@id": "node/6656063065",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2430",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Pho Ava",
+        "phone": "+1-505-557-6572",
+        "website": "https://www.phoava.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.98169,
+              35.6589615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6679933907",
+      "properties": {
+        "@id": "node/6679933907",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.945124,
+              35.6826777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696335503",
+      "properties": {
+        "@id": "node/6696335503",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4681",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican;seafood",
+        "name": "Puerte Penasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0288675,
+              35.6381804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6696338771",
+      "properties": {
+        "@id": "node/6696338771",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4350",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "addr:unit": "5",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "La Cocina de Dona Clara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0247959,
+              35.6380362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6698142604",
+      "properties": {
+        "@id": "node/6698142604",
+        "addr:housenumber": "204",
+        "addr:street": "Montezuma Avenue",
+        "amenity": "restaurant",
+        "name": "Saveur Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9426092,
+              35.6839907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6711105012",
+      "properties": {
+        "@id": "node/6711105012",
+        "amenity": "restaurant",
+        "cuisine": "steak_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9406009,
+              35.6866438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6711655118",
+      "properties": {
+        "@id": "node/6711655118",
+        "amenity": "restaurant",
+        "brand": "CAVA",
+        "brand:wikidata": "Q85751038",
+        "cuisine": "mediterranean",
+        "name": "CAVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.942115,
+              35.688484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6713337016",
+      "properties": {
+        "@id": "node/6713337016",
+        "addr:housenumber": "100",
+        "addr:street": "East San Francisco Street",
+        "amenity": "restaurant",
+        "name": "La Plazuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9378565,
+              35.6867166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6713337027",
+      "properties": {
+        "@id": "node/6713337027",
+        "addr:housenumber": "100",
+        "addr:street": "East San Francisco Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "name": "La Fiesta Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9379347,
+              35.6864886
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6737687668",
+      "properties": {
+        "@id": "node/6737687668",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3139",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Tortilla Flats",
+        "phone": "+1-505-471-8685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9956187,
+              35.6534245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6796090937",
+      "properties": {
+        "@id": "node/6796090937",
+        "addr:housenumber": "187B",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "restaurant",
+        "check_date": "2023-06-13",
+        "name": "Dr. Field Goods Kitchen",
+        "old_shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.950991,
+              35.6921562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6868587244",
+      "properties": {
+        "@id": "node/6868587244",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3003",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "South Saint Francis Drive",
+        "addr:unit": "C",
+        "amenity": "restaurant",
+        "cuisine": "tibetan",
+        "name": "Tibet Kitchen",
+        "old_name": "Maki Yaki Sushi",
+        "opening_hours": "Mo-Sa 11:30-14:30, 16:00-21:00",
+        "phone": "+1-505-982-6796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9540813,
+              35.6460908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7116162040",
+      "properties": {
+        "@id": "node/7116162040",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0844299,
+              35.6182875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7489500965",
+      "properties": {
+        "@id": "node/7489500965",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "514",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "Fun Noodle Bar",
+        "opening_hours": "11:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1-505-974-8801",
+        "start_date": "2021-02-01",
+        "website": "https://www.facebook.com/FunNoodleBarSantaFe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.951309,
+              35.6726847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8045739032",
+      "properties": {
+        "@id": "node/8045739032",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "66",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East San Francisco Street",
+        "addr:unit": "8-10",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "level": "1",
+        "name": "Dumpling Tea",
+        "opening_hours": "Mo-Su 11:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9390052,
+              35.6866307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8090048352",
+      "properties": {
+        "@id": "node/8090048352",
+        "alt_name": "Zacatlan",
+        "amenity": "restaurant",
+        "contact:facebook": "zacatlanrestaurant",
+        "contact:instagram": "zacatlanrestaurant",
+        "contact:opentable": "zacatlan-santa-fe",
+        "contact:tripadvisor": "Restaurant_Review-g60958-d21166672-Reviews-Zacatlan_Restaurant-Santa_Fe_New_Mexico.html",
+        "contact:yelp": "zacatl\u00e1n-restaurant-santa-fe",
+        "cuisine": "mexican",
+        "image": "https://static.wixstatic.com/media/0fc398_f728ee9cbc1549f08d371cef9cd21b4e~mv2.jpg",
+        "name": "Zacatl\u00e1n",
+        "note": "location approximate based off wix image",
+        "phone": "+1 505 780 5174",
+        "website": "https://zacatlanrestaurant.com/about"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9450092,
+              35.6854879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8090048370",
+      "properties": {
+        "@id": "node/8090048370",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1320",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Agua Fria Street",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "cuisine": "jamaican",
+        "delivery": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Ras Rody's Jamaican Vegan",
+        "outdoor_seating": "no",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.96534,
+              35.6801972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8523104815",
+      "properties": {
+        "@id": "node/8523104815",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "221",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Shelby Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "description": "Chef Olea creates sophisticated flavors using Old Mexico\u2019s indigenous and culinary traditions alongside ingredients from around the world. His menu is deliberately small, featuring fresh and locally sourced produce and meats when possible. Nothing evokes",
+        "name": "Saz\u00f3n",
+        "opening_hours": "Mo-Sa 17:00-20:00",
+        "phone": "+1-505-983-8604",
+        "website": "https://sazonsantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.938475,
+              35.6853046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9043661196",
+      "properties": {
+        "@id": "node/9043661196",
+        "addr:housenumber": "100",
+        "addr:street": "Sandoval Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "name": "Ortiz Restaurant & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.94209,
+              35.687829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9043661198",
+      "properties": {
+        "@id": "node/9043661198",
+        "amenity": "restaurant",
+        "name": "Open Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9398376,
+              35.6854405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9106298248",
+      "properties": {
+        "@id": "node/9106298248",
+        "amenity": "restaurant",
+        "check_date": "2025-04-16",
+        "cuisine": "steak_house",
+        "name": "Rio Chama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.938165,
+              35.6832805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9106298266",
+      "properties": {
+        "@id": "node/9106298266",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9382895,
+              35.6828987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9246321043",
+      "properties": {
+        "@id": "node/9246321043",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1512",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "diet:gluten_free": "yes",
+        "diet:healthy": "yes",
+        "diet:non-vegetarian": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Bruno\u2019s Pizzeria",
+        "opening_hours": "Mo-Tu 11:00-16:00; We-Fr 11:00-15:00",
+        "phone": "+1 505-690-0966",
+        "website": "https://pieslingers.co/brunos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.947157,
+              35.6815833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9251690248",
+      "properties": {
+        "@id": "node/9251690248",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2217",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "description": "Food truck serving sushi.",
+        "name": "Jesushi Santa Fe",
+        "phone": "+1 505 204 5330",
+        "takeaway": "only",
+        "website": "https://www.facebook.com/Jesushi-santa-fe-106534374523362/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.98083,
+              35.6617007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9698290218",
+      "properties": {
+        "@id": "node/9698290218",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "505",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "name": "Radish & Rye",
+        "phone": "+1-505-930-5325",
+        "website": "https://radishandrye.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.945294,
+              35.6820967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445734",
+      "properties": {
+        "@id": "node/9753445734",
+        "addr:housenumber": "1722",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "name": "Chabelita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9720943,
+              35.6584321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445737",
+      "properties": {
+        "@id": "node/9753445737",
+        "addr:housenumber": "1722",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "F",
+        "amenity": "restaurant",
+        "name": "Lulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9720732,
+              35.6582762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445740",
+      "properties": {
+        "@id": "node/9753445740",
+        "addr:housenumber": "1711",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "name": "Felipe's Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9723786,
+              35.6584053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9753445749",
+      "properties": {
+        "@id": "node/9753445749",
+        "addr:housenumber": "1722",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Espiritu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9721018,
+              35.65849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10148645590",
+      "properties": {
+        "@id": "node/10148645590",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0096033,
+              35.645213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10163924278",
+      "properties": {
+        "@id": "node/10163924278",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "A3",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Home Run Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9842632,
+              35.6394185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10726867452",
+      "properties": {
+        "@id": "node/10726867452",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1314",
+        "addr:state": "NM",
+        "addr:street": "Rufina Circle",
+        "addr:unit": "A5",
+        "amenity": "restaurant",
+        "contact:facebook": "Aliciastortilleria",
+        "contact:menupix": "380163280",
+        "contact:restaurantguru": "Alicias-Tortilleria-Santa-Fe-New-Mexico",
+        "contact:yelp": "alicias-tortilleria-santa-fe",
+        "cuisine": "mexican;new_mexican",
+        "delivery:allmenus": "733255-alicias-tortilleria",
+        "delivery:ubereats": "alicias-tortilleria/2zXF6aIHTVi5gB8feyIdOQ",
+        "delivery:zmenu": "alicias-tortilleria-santa-fe-online-menu",
+        "diet:meat": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Alicia's Tortilleria",
+        "phone": "+1-505-438-9545",
+        "source": "https://citydifferentfoodie.com/2021/11/08/alicias-tortilleria-santa-fe-2",
+        "website": "https://sfreporter.com/guides/restaurant-guide-2017/2018/10/24/alicias-tortilleria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9952822,
+              35.6552049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10738069467",
+      "properties": {
+        "@id": "node/10738069467",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "115",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East Water Street",
+        "addr:unit": "LL1",
+        "amenity": "restaurant",
+        "cuisine": "macaroni;mac_and_cheese",
+        "level": "0",
+        "name": "Mac Santa Fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9389937,
+              35.686517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10799004697",
+      "properties": {
+        "@id": "node/10799004697",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4980",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Promenade Boulevard",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "drive_through": "yes",
+        "name": "Dion's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0290546,
+              35.6188549
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10826145442",
+      "properties": {
+        "@id": "node/10826145442",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "66",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "East San Francisco Street",
+        "addr:unit": "21",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Sushi 8",
+        "outdoor_seating": "balcony"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9389836,
+              35.6865297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11011505263",
+      "properties": {
+        "@id": "node/11011505263",
+        "addr:housenumber": "313",
+        "addr:street": "Camino Alire",
+        "amenity": "restaurant",
+        "name": "The Kitchen Table Commercial Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9641007,
+              35.6820271
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11029367296",
+      "properties": {
+        "@id": "node/11029367296",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "500",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Market Street",
+        "addr:unit": "111",
+        "amenity": "restaurant",
+        "cuisine": "crepe",
+        "name": "Crepas-Oh! The Crepe House",
+        "old_addr:unit": "700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.948663,
+              35.6834523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11083296193",
+      "properties": {
+        "@id": "node/11083296193",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "210",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Don Gaspar Avenue",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "description": "moving into old El Meson",
+        "name": "Market Steer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.93999,
+              35.6862637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11270781149",
+      "properties": {
+        "@id": "node/11270781149",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "135",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Palace Avenue",
+        "addr:unit": "101",
+        "amenity": "restaurant",
+        "contact:facebook": "https://facebook.com/109007498435326",
+        "cuisine": "mexican",
+        "email": "fiestaoaxacasantafe@gmail.com",
+        "name": "Fiesta Oaxaca",
+        "name:etymology:es": "Oaxaca",
+        "opening_hours": "Mo-Sa 11:30-20:00",
+        "phone": "+1-505-982-9525",
+        "tripadvisor": "https://tripadvisor.com/Restaurant_Review-g60958-d15980576-Reviews-Fiesta_Oaxaca-Santa_Fe_New_Mexico.html",
+        "website": "https://fiestaoaxacasf.com",
+        "website:menu": "https://fiestaoaxacasf.com/menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940343,
+              35.6886302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11270781152",
+      "properties": {
+        "@id": "node/11270781152",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "135",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Palace Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Flamenco Cabaret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.940179,
+              35.6885694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11273364632",
+      "properties": {
+        "@id": "node/11273364632",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "125",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "West Marcy Street",
+        "addr:unit": "117",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "indoor_seating": "yes",
+        "name": "La Boca",
+        "outdoor_seating": "patio",
+        "phone": "+1-505-982-3433",
+        "website": "http://www.labocasantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9378569,
+              35.6889912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283611500",
+      "properties": {
+        "@id": "node/11283611500",
+        "addr:housenumber": "3571",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican;new_mexican;norteno",
+        "name": "El Comal Restaurant",
+        "opening_hours": "Mo-Sa 07:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0069478,
+              35.6466037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283630007",
+      "properties": {
+        "@id": "node/11283630007",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3301",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "IHOP",
+        "brand:wikidata": "Q1185675",
+        "check_date": "2024-09-01",
+        "cuisine": "breakfast;pancake",
+        "name": "IHOP",
+        "opening_hours": "Mo-Th,Su 06:00-22:00; Fr,Sa 06:00-24:00",
+        "phone": "+1 505-438-3773",
+        "source": "official website",
+        "website": "https://restaurants.ihop.com/en-us/nm/santa-fe/breakfast-3301-cerrillos-rd-1551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -106.0016873,
+              35.6497065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11755492902",
+      "properties": {
+        "@id": "node/11755492902",
+        "addr:housenumber": "720",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "E",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Golden Land Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9606104,
+              35.6574246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12162448746",
+      "properties": {
+        "@id": "node/12162448746",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "821",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West San Mateo Road",
+        "addr:unit": "B",
+        "amenity": "restaurant",
+        "name": "Unit B",
+        "operator": "Chocolate Maven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9624526,
+              35.6617279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12162448777",
+      "properties": {
+        "@id": "node/12162448777",
+        "addr:housenumber": "1847",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Tokyo Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9737529,
+              35.664829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12409494734",
+      "properties": {
+        "@id": "node/12409494734",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1807",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "2nd Street",
+        "addr:unit": "35",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Blue Lotus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9651574,
+              35.662958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12409494736",
+      "properties": {
+        "@id": "node/12409494736",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1702",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Lena Street",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9651641,
+              35.6645793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12409494737",
+      "properties": {
+        "@id": "node/12409494737",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1801",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Lena Street",
+        "addr:unit": "101",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Ozu!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9646102,
+              35.6653355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12409787268",
+      "properties": {
+        "@id": "node/12409787268",
+        "addr:housenumber": "3011",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Lulu's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9942027,
+              35.6544438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12578750224",
+      "properties": {
+        "@id": "node/12578750224",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1644",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Joy's Sushi Bar",
+        "opening_hours": "Mo-Sa 11:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.974287,
+              35.6583556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13253073335",
+      "properties": {
+        "@id": "node/13253073335",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1025",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Midtown Calle Central",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Tender Fire Kitchen",
+        "website": "https://www.tenderfirekitchen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9763035,
+              35.6548359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13298688011",
+      "properties": {
+        "@id": "node/13298688011",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "B7",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "Snacking Panda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9836671,
+              35.6391449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13370301240",
+      "properties": {
+        "@id": "node/13370301240",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "Nuckoll's BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9482771,
+              35.6830491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227851058",
+      "properties": {
+        "@id": "way/227851058",
+        "addr:housenumber": "1602",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Carniceria Latinos Unidos",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9750639,
+              35.6595577
+            ],
+            [
+              -105.9749141,
+              35.6595246
+            ],
+            [
+              -105.9749301,
+              35.6594768
+            ],
+            [
+              -105.9748717,
+              35.6594639
+            ],
+            [
+              -105.9749084,
+              35.6593538
+            ],
+            [
+              -105.9749287,
+              35.6593492
+            ],
+            [
+              -105.9749478,
+              35.6592952
+            ],
+            [
+              -105.9750628,
+              35.6593205
+            ],
+            [
+              -105.9750355,
+              35.6594018
+            ],
+            [
+              -105.9751106,
+              35.6594184
+            ],
+            [
+              -105.9750639,
+              35.6595577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242674854",
+      "properties": {
+        "@id": "way/242674854",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3501",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "brand": "Buffalo Wild Wings",
+        "brand:wikidata": "Q509255",
+        "building": "commercial",
+        "cuisine": "wings",
+        "name": "Buffalo Wild Wings",
+        "ref": "1349",
+        "short_name": "BW3",
+        "website": "https://www.buffalowildwings.com/locations/us/nm/santa-fe/3501-zafarano-dr/sports-bar-1349"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.012138,
+              35.6422717
+            ],
+            [
+              -106.0123365,
+              35.6421494
+            ],
+            [
+              -106.012171,
+              35.641972
+            ],
+            [
+              -106.0119718,
+              35.6420947
+            ],
+            [
+              -106.0120533,
+              35.6421821
+            ],
+            [
+              -106.012032,
+              35.6421952
+            ],
+            [
+              -106.012074,
+              35.6422402
+            ],
+            [
+              -106.012096,
+              35.6422266
+            ],
+            [
+              -106.012138,
+              35.6422717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259696919",
+      "properties": {
+        "@id": "way/259696919",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2574",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Camino Entrada",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Piazza Caffe - Trattoria di Famiglia",
+        "old_name": "Rustica"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0240784,
+              35.6318152
+            ],
+            [
+              -106.0239203,
+              35.6319528
+            ],
+            [
+              -106.0238001,
+              35.6318617
+            ],
+            [
+              -106.0237896,
+              35.6318707
+            ],
+            [
+              -106.0237232,
+              35.6318212
+            ],
+            [
+              -106.0237592,
+              35.6317897
+            ],
+            [
+              -106.0237321,
+              35.6317693
+            ],
+            [
+              -106.0237466,
+              35.6317565
+            ],
+            [
+              -106.0237407,
+              35.6317521
+            ],
+            [
+              -106.0238162,
+              35.631686
+            ],
+            [
+              -106.0238246,
+              35.6316894
+            ],
+            [
+              -106.0238393,
+              35.6316764
+            ],
+            [
+              -106.0238691,
+              35.6316989
+            ],
+            [
+              -106.0239039,
+              35.6316684
+            ],
+            [
+              -106.0239678,
+              35.6317163
+            ],
+            [
+              -106.0239586,
+              35.6317244
+            ],
+            [
+              -106.0240784,
+              35.6318152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309273340",
+      "properties": {
+        "@id": "way/309273340",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-04-16",
+        "name": "Pecos Trail Cafe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9335582,
+              35.6478394
+            ],
+            [
+              -105.933513,
+              35.6478519
+            ],
+            [
+              -105.9334807,
+              35.6478608
+            ],
+            [
+              -105.933474,
+              35.6478486
+            ],
+            [
+              -105.9334601,
+              35.647826
+            ],
+            [
+              -105.9332674,
+              35.6479036
+            ],
+            [
+              -105.9332513,
+              35.6479101
+            ],
+            [
+              -105.9332373,
+              35.6478884
+            ],
+            [
+              -105.9332146,
+              35.6478981
+            ],
+            [
+              -105.9332199,
+              35.6479063
+            ],
+            [
+              -105.9332106,
+              35.6479111
+            ],
+            [
+              -105.9332141,
+              35.6479182
+            ],
+            [
+              -105.9332045,
+              35.6479236
+            ],
+            [
+              -105.9332066,
+              35.6479296
+            ],
+            [
+              -105.9331942,
+              35.6479356
+            ],
+            [
+              -105.9331988,
+              35.6479441
+            ],
+            [
+              -105.9331301,
+              35.6479693
+            ],
+            [
+              -105.933078,
+              35.6479623
+            ],
+            [
+              -105.9330675,
+              35.6479458
+            ],
+            [
+              -105.9330092,
+              35.6479714
+            ],
+            [
+              -105.9329751,
+              35.6479202
+            ],
+            [
+              -105.9330434,
+              35.647896
+            ],
+            [
+              -105.9330294,
+              35.6478777
+            ],
+            [
+              -105.933006,
+              35.647888
+            ],
+            [
+              -105.9329764,
+              35.6478454
+            ],
+            [
+              -105.9332662,
+              35.6477226
+            ],
+            [
+              -105.9332833,
+              35.6477387
+            ],
+            [
+              -105.9334388,
+              35.6476807
+            ],
+            [
+              -105.9335145,
+              35.6478026
+            ],
+            [
+              -105.9335312,
+              35.6477945
+            ],
+            [
+              -105.9335494,
+              35.6478247
+            ],
+            [
+              -105.9335582,
+              35.6478394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317447969",
+      "properties": {
+        "@id": "way/317447969",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "101",
+        "addr:state": "NM",
+        "addr:street": "West Alameda Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Del Charro Saloon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9404967,
+              35.6853981
+            ],
+            [
+              -105.940202,
+              35.6853385
+            ],
+            [
+              -105.9402456,
+              35.6852138
+            ],
+            [
+              -105.9402615,
+              35.685204
+            ],
+            [
+              -105.9402782,
+              35.6851942
+            ],
+            [
+              -105.9404228,
+              35.6852207
+            ],
+            [
+              -105.9403959,
+              35.6853024
+            ],
+            [
+              -105.9405192,
+              35.6853289
+            ],
+            [
+              -105.9404967,
+              35.6853981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318069350",
+      "properties": {
+        "@id": "way/318069350",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "555",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West Cordova Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Maria's of Santa Fe",
+        "phone": "+1 505 9837929",
+        "website": "https://www.marias-santafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9525682,
+              35.6740661
+            ],
+            [
+              -105.9525752,
+              35.6740617
+            ],
+            [
+              -105.952587,
+              35.6740611
+            ],
+            [
+              -105.9526976,
+              35.6740817
+            ],
+            [
+              -105.9526996,
+              35.6740916
+            ],
+            [
+              -105.9526957,
+              35.6741087
+            ],
+            [
+              -105.9527167,
+              35.6741119
+            ],
+            [
+              -105.9527155,
+              35.6741169
+            ],
+            [
+              -105.9527345,
+              35.6741198
+            ],
+            [
+              -105.9527431,
+              35.674082
+            ],
+            [
+              -105.9527505,
+              35.6740754
+            ],
+            [
+              -105.9528064,
+              35.6740803
+            ],
+            [
+              -105.9528095,
+              35.6740853
+            ],
+            [
+              -105.9528075,
+              35.6740934
+            ],
+            [
+              -105.9528134,
+              35.6740944
+            ],
+            [
+              -105.9527786,
+              35.6742322
+            ],
+            [
+              -105.9527869,
+              35.6742335
+            ],
+            [
+              -105.9527388,
+              35.6744237
+            ],
+            [
+              -105.9525511,
+              35.6743924
+            ],
+            [
+              -105.9525594,
+              35.6743595
+            ],
+            [
+              -105.9525298,
+              35.6743546
+            ],
+            [
+              -105.9525712,
+              35.6741907
+            ],
+            [
+              -105.9525776,
+              35.6741656
+            ],
+            [
+              -105.9525641,
+              35.6741634
+            ],
+            [
+              -105.9525444,
+              35.6741601
+            ],
+            [
+              -105.9525682,
+              35.6740661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318069364",
+      "properties": {
+        "@id": "way/318069364",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2411",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "greek",
+        "name": "Yamas Greek Rotiserrie",
+        "phone": "+1-505-930-5921",
+        "website": "https://www.yamasgreek.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9825025,
+              35.6604275
+            ],
+            [
+              -105.9824307,
+              35.6602128
+            ],
+            [
+              -105.9825435,
+              35.6601837
+            ],
+            [
+              -105.9826153,
+              35.6603983
+            ],
+            [
+              -105.9825959,
+              35.6604033
+            ],
+            [
+              -105.9825025,
+              35.6604275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435898308",
+      "properties": {
+        "@id": "way/435898308",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1820",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "pantrysantafe",
+        "cuisine": "mexican;american",
+        "name": "The Pantry Resturant",
+        "opening_hours": "Mo-Sa 06:30-21:00, Su 07:00-21:00",
+        "phone": "+1-505-986-0022",
+        "website": "https://www.pantrysantafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9723798,
+              35.6649728
+            ],
+            [
+              -105.9724226,
+              35.6649554
+            ],
+            [
+              -105.9725167,
+              35.6649173
+            ],
+            [
+              -105.9724895,
+              35.664873
+            ],
+            [
+              -105.9725145,
+              35.6648629
+            ],
+            [
+              -105.9724736,
+              35.6647961
+            ],
+            [
+              -105.9723116,
+              35.6648617
+            ],
+            [
+              -105.9723798,
+              35.6649728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461729155",
+      "properties": {
+        "@id": "way/461729155",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "329",
+        "addr:postcode": "87501-2707",
+        "addr:state": "NM",
+        "addr:street": "Old Santa Fe Trail",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "email": "support@uppercrustpizza.com",
+        "name": "Upper Crust Pizza",
+        "phone": "+1 505 982 0000",
+        "website": "https://uppercrustpizza.com",
+        "wikidata": "Q135916346",
+        "wikimedia_commons": "Category:Upper_Crust_Pizza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9376204,
+              35.6837072
+            ],
+            [
+              -105.937638,
+              35.6836702
+            ],
+            [
+              -105.9376416,
+              35.6836625
+            ],
+            [
+              -105.9376017,
+              35.6836501
+            ],
+            [
+              -105.9376115,
+              35.6836293
+            ],
+            [
+              -105.9376527,
+              35.6836422
+            ],
+            [
+              -105.9376691,
+              35.6836074
+            ],
+            [
+              -105.9378231,
+              35.6836556
+            ],
+            [
+              -105.937803,
+              35.683698
+            ],
+            [
+              -105.9377756,
+              35.6837557
+            ],
+            [
+              -105.9376204,
+              35.6837072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461767941",
+      "properties": {
+        "@id": "way/461767941",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "dumpling",
+        "name": "Dumpling Cafe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9450652,
+              35.6830423
+            ],
+            [
+              -105.9451122,
+              35.6828587
+            ],
+            [
+              -105.9450129,
+              35.6828364
+            ],
+            [
+              -105.9449632,
+              35.6830229
+            ],
+            [
+              -105.9450652,
+              35.6830423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461776239",
+      "properties": {
+        "@id": "way/461776239",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "428",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Agua Fria Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "0",
+        "cuisine": "american",
+        "name": "Joseph's Culinary Pub",
+        "opening_hours": "We-Su 17:00-21:00",
+        "phone": "+1-505-982-1272",
+        "website": "http://www.josephsofsantafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9461666,
+              35.6865799
+            ],
+            [
+              -105.9460437,
+              35.6865809
+            ],
+            [
+              -105.9460539,
+              35.6864162
+            ],
+            [
+              -105.946121,
+              35.6864245
+            ],
+            [
+              -105.9462211,
+              35.6864296
+            ],
+            [
+              -105.9462135,
+              35.6864842
+            ],
+            [
+              -105.9461742,
+              35.686479
+            ],
+            [
+              -105.9461666,
+              35.6865799
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461791419",
+      "properties": {
+        "@id": "way/461791419",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "631",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "burger;milkshake;american",
+        "name": "Shake Foundation",
+        "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-988-8992",
+        "takeaway": "only",
+        "website": "https://shakefoundation.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9468207,
+              35.6806983
+            ],
+            [
+              -105.9468634,
+              35.6806576
+            ],
+            [
+              -105.9468796,
+              35.6806169
+            ],
+            [
+              -105.9467724,
+              35.6805868
+            ],
+            [
+              -105.9467555,
+              35.6806298
+            ],
+            [
+              -105.9467396,
+              35.6806755
+            ],
+            [
+              -105.9468207,
+              35.6806983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461791425",
+      "properties": {
+        "@id": "way/461791425",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "709",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Don Cubero Alley",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "salad",
+        "name": "Vinaigrette",
+        "opening_hours": "Mo-Sa 11:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-820-9205",
+        "website": "https://www.vinaigretteonline.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9468252,
+              35.6803712
+            ],
+            [
+              -105.946845,
+              35.6802898
+            ],
+            [
+              -105.9468136,
+              35.680286
+            ],
+            [
+              -105.9468232,
+              35.6802511
+            ],
+            [
+              -105.9467843,
+              35.6802455
+            ],
+            [
+              -105.9467864,
+              35.6802389
+            ],
+            [
+              -105.9467693,
+              35.680235
+            ],
+            [
+              -105.9467755,
+              35.6802001
+            ],
+            [
+              -105.9468143,
+              35.6801902
+            ],
+            [
+              -105.9468633,
+              35.6801963
+            ],
+            [
+              -105.9468982,
+              35.6802007
+            ],
+            [
+              -105.9469105,
+              35.6801432
+            ],
+            [
+              -105.9467959,
+              35.6801265
+            ],
+            [
+              -105.9467891,
+              35.680173
+            ],
+            [
+              -105.9467564,
+              35.6801813
+            ],
+            [
+              -105.946712,
+              35.6801741
+            ],
+            [
+              -105.9466998,
+              35.6802284
+            ],
+            [
+              -105.9467148,
+              35.6802333
+            ],
+            [
+              -105.9467086,
+              35.6802644
+            ],
+            [
+              -105.9467011,
+              35.680266
+            ],
+            [
+              -105.9466814,
+              35.6803524
+            ],
+            [
+              -105.9468252,
+              35.6803712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461796150",
+      "properties": {
+        "@id": "way/461796150",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "807",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Early Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "El Chile Toreado",
+        "opening_hours": "Mo-Fr 07:30-14:30, Sa 07:30-14:00",
+        "phone": "+1-505-500-0033",
+        "takeaway": "only",
+        "website": "https://elchiletoreado.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.952203,
+              35.6777471
+            ],
+            [
+              -105.952234,
+              35.6777475
+            ],
+            [
+              -105.952235,
+              35.6776987
+            ],
+            [
+              -105.952204,
+              35.6776983
+            ],
+            [
+              -105.952203,
+              35.6777471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461796895",
+      "properties": {
+        "@id": "way/461796895",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1057",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican;new_mexican;burrito",
+        "drive_through": "yes",
+        "name": "Burrito Spot",
+        "phone": "+1-505-820-0779",
+        "website": "https://burrito-spot.business.site/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9573079,
+              35.6750832
+            ],
+            [
+              -105.9572761,
+              35.6751714
+            ],
+            [
+              -105.9570605,
+              35.6751201
+            ],
+            [
+              -105.9570924,
+              35.6750319
+            ],
+            [
+              -105.9573079,
+              35.6750832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/462014360",
+      "properties": {
+        "@id": "way/462014360",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "235",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Santa Fe Bees Restaurant",
+        "old_name": "Taco Fundaci\u00f3n;Burt's Burger Bowl",
+        "old_name:en": "Taco Foundation",
+        "old_name:es": "Taco Fundaci\u00f3n",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9446009,
+              35.6906701
+            ],
+            [
+              -105.944463,
+              35.6907536
+            ],
+            [
+              -105.9443322,
+              35.6906112
+            ],
+            [
+              -105.94447,
+              35.6905276
+            ],
+            [
+              -105.9446009,
+              35.6906701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/462014364",
+      "properties": {
+        "@id": "way/462014364",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "301",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Jefferson Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "drive_through": "yes",
+        "name": "Bumble Bee's Baja Grill",
+        "opening_hours": "Su-Th 11:00-20:00; Fr-Sa 11:00-20:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "http://bumblebeesbajagrill.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9436001,
+              35.690072
+            ],
+            [
+              -105.9435874,
+              35.6899824
+            ],
+            [
+              -105.9437853,
+              35.689969
+            ],
+            [
+              -105.9437942,
+              35.6899824
+            ],
+            [
+              -105.9438069,
+              35.6899793
+            ],
+            [
+              -105.9438079,
+              35.6900109
+            ],
+            [
+              -105.9438107,
+              35.6900452
+            ],
+            [
+              -105.943792,
+              35.6900495
+            ],
+            [
+              -105.9437534,
+              35.6900512
+            ],
+            [
+              -105.943649,
+              35.6900557
+            ],
+            [
+              -105.9436501,
+              35.6900711
+            ],
+            [
+              -105.9436001,
+              35.690072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463027607",
+      "properties": {
+        "@id": "way/463027607",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "905",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Alarid Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Choza",
+        "outdoor_seating": "yes",
+        "website": "http://www.lachozasf.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9525759,
+              35.6792778
+            ],
+            [
+              -105.9526996,
+              35.6792675
+            ],
+            [
+              -105.9526938,
+              35.6792143
+            ],
+            [
+              -105.9527122,
+              35.6792126
+            ],
+            [
+              -105.9527186,
+              35.6792587
+            ],
+            [
+              -105.9527122,
+              35.679271
+            ],
+            [
+              -105.9527023,
+              35.6792712
+            ],
+            [
+              -105.9527029,
+              35.6792914
+            ],
+            [
+              -105.9528348,
+              35.679283
+            ],
+            [
+              -105.9528309,
+              35.6792491
+            ],
+            [
+              -105.9528544,
+              35.6792463
+            ],
+            [
+              -105.9528684,
+              35.6792211
+            ],
+            [
+              -105.9528658,
+              35.6791984
+            ],
+            [
+              -105.952887,
+              35.6791967
+            ],
+            [
+              -105.9528965,
+              35.6791946
+            ],
+            [
+              -105.9529035,
+              35.6791883
+            ],
+            [
+              -105.9528957,
+              35.6791404
+            ],
+            [
+              -105.952848,
+              35.6791439
+            ],
+            [
+              -105.952829,
+              35.6790285
+            ],
+            [
+              -105.9528099,
+              35.6790306
+            ],
+            [
+              -105.9528056,
+              35.6790011
+            ],
+            [
+              -105.9527449,
+              35.6790067
+            ],
+            [
+              -105.9527467,
+              35.6790158
+            ],
+            [
+              -105.9527328,
+              35.6790201
+            ],
+            [
+              -105.9527354,
+              35.6790384
+            ],
+            [
+              -105.9527137,
+              35.6790426
+            ],
+            [
+              -105.9527233,
+              35.6790883
+            ],
+            [
+              -105.9527423,
+              35.6790855
+            ],
+            [
+              -105.9527545,
+              35.679151
+            ],
+            [
+              -105.9526193,
+              35.6791636
+            ],
+            [
+              -105.952628,
+              35.6792192
+            ],
+            [
+              -105.9525708,
+              35.6792242
+            ],
+            [
+              -105.9525759,
+              35.6792778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463032596",
+      "properties": {
+        "@id": "way/463032596",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2014",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Dion's Pizza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.978239,
+              35.6617644
+            ],
+            [
+              -105.9781144,
+              35.6618297
+            ],
+            [
+              -105.9780542,
+              35.661753
+            ],
+            [
+              -105.9780849,
+              35.6617371
+            ],
+            [
+              -105.9780239,
+              35.6616607
+            ],
+            [
+              -105.9780924,
+              35.6616257
+            ],
+            [
+              -105.9780688,
+              35.6615897
+            ],
+            [
+              -105.9781442,
+              35.6615529
+            ],
+            [
+              -105.9781757,
+              35.661595
+            ],
+            [
+              -105.9782691,
+              35.6615457
+            ],
+            [
+              -105.9782629,
+              35.6615375
+            ],
+            [
+              -105.9783175,
+              35.6615103
+            ],
+            [
+              -105.9783418,
+              35.6615457
+            ],
+            [
+              -105.9783242,
+              35.6615551
+            ],
+            [
+              -105.9783523,
+              35.6615931
+            ],
+            [
+              -105.9783327,
+              35.6616037
+            ],
+            [
+              -105.978399,
+              35.6616922
+            ],
+            [
+              -105.9782436,
+              35.6617715
+            ],
+            [
+              -105.978239,
+              35.6617644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463032597",
+      "properties": {
+        "@id": "way/463032597",
+        "addr:housenumber": "2000",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "breakfast": "yes",
+        "building": "yes",
+        "cuisine": "breakfast",
+        "name": "Weck's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9772321,
+              35.6619589
+            ],
+            [
+              -105.9773074,
+              35.6617731
+            ],
+            [
+              -105.9775537,
+              35.661831
+            ],
+            [
+              -105.9774857,
+              35.6620191
+            ],
+            [
+              -105.9772321,
+              35.6619589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472252669",
+      "properties": {
+        "@id": "way/472252669",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "3781",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Olive Garden",
+        "brand:wikidata": "Q3045312",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Olive Garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0106659,
+              35.6442046
+            ],
+            [
+              -106.0105697,
+              35.6442594
+            ],
+            [
+              -106.0105857,
+              35.644278
+            ],
+            [
+              -106.0105196,
+              35.6443156
+            ],
+            [
+              -106.0104754,
+              35.6442644
+            ],
+            [
+              -106.0104733,
+              35.6442911
+            ],
+            [
+              -106.0104132,
+              35.644288
+            ],
+            [
+              -106.0104163,
+              35.6442484
+            ],
+            [
+              -106.0103857,
+              35.6442658
+            ],
+            [
+              -106.0102604,
+              35.6441204
+            ],
+            [
+              -106.0104838,
+              35.6439933
+            ],
+            [
+              -106.0106659,
+              35.6442046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472252672",
+      "properties": {
+        "@id": "way/472252672",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "3795",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Chili's",
+        "brand:wikidata": "Q1072948",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "name": "Chili's",
+        "official_name": "Chili's Grill & Bar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0114572,
+              35.6436996
+            ],
+            [
+              -106.0113048,
+              35.6437923
+            ],
+            [
+              -106.011235,
+              35.6437165
+            ],
+            [
+              -106.0111952,
+              35.6437407
+            ],
+            [
+              -106.011171,
+              35.6437143
+            ],
+            [
+              -106.0111825,
+              35.6437073
+            ],
+            [
+              -106.0111082,
+              35.6436265
+            ],
+            [
+              -106.0113194,
+              35.6434982
+            ],
+            [
+              -106.0114052,
+              35.6435914
+            ],
+            [
+              -106.0113948,
+              35.6435978
+            ],
+            [
+              -106.0114298,
+              35.6436358
+            ],
+            [
+              -106.0114097,
+              35.643648
+            ],
+            [
+              -106.0114572,
+              35.6436996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472254327",
+      "properties": {
+        "@id": "way/472254327",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1814",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "2nd Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american;regional",
+        "name": "Casa Bonita",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9654772,
+              35.6620733
+            ],
+            [
+              -105.9652282,
+              35.6620554
+            ],
+            [
+              -105.9652414,
+              35.6619336
+            ],
+            [
+              -105.9654938,
+              35.6619517
+            ],
+            [
+              -105.9654908,
+              35.6619785
+            ],
+            [
+              -105.9655196,
+              35.6619806
+            ],
+            [
+              -105.9655131,
+              35.6620398
+            ],
+            [
+              -105.9654811,
+              35.6620375
+            ],
+            [
+              -105.9654772,
+              35.6620733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474256827",
+      "properties": {
+        "@id": "way/474256827",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2501",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "fax": "+1-505-471-2162",
+        "name": "India House",
+        "opening_hours": "Tu-Su 11:00-14:30,17:00-21:30",
+        "operator": "Kewal Singh Dhindsa",
+        "phone": "+1-505-471-2651",
+        "takeaway": "yes",
+        "website": "https://indiahousenm.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9830243,
+              35.6603671
+            ],
+            [
+              -105.9828508,
+              35.6604063
+            ],
+            [
+              -105.9827703,
+              35.6601711
+            ],
+            [
+              -105.9827981,
+              35.6601568
+            ],
+            [
+              -105.9828075,
+              35.6601842
+            ],
+            [
+              -105.9829273,
+              35.6601571
+            ],
+            [
+              -105.982963,
+              35.6602613
+            ],
+            [
+              -105.9829863,
+              35.6602561
+            ],
+            [
+              -105.9830243,
+              35.6603671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474729646",
+      "properties": {
+        "@id": "way/474729646",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "901",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "West San Mateo Road",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "fine_dining",
+        "description": "Midtown bistro, featuring Executive Chef Angel Estrada, offers Santa Fe gourmet fine dining with a Southwest flair.",
+        "name": "Midtown Bistro",
+        "website": "https://www.midtownbistrosf.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9638081,
+              35.6624457
+            ],
+            [
+              -105.963702,
+              35.6624006
+            ],
+            [
+              -105.963869,
+              35.6621414
+            ],
+            [
+              -105.9638941,
+              35.6621521
+            ],
+            [
+              -105.9640809,
+              35.6622314
+            ],
+            [
+              -105.9640197,
+              35.6623265
+            ],
+            [
+              -105.9639139,
+              35.6622815
+            ],
+            [
+              -105.9638081,
+              35.6624457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475409349",
+      "properties": {
+        "@id": "way/475409349",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "1512",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Pacheco Street",
+        "addr:unit": "B",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "email": "kitchen@sweetwatersf.com",
+        "name": "Sweetwater Harvest Kitchen",
+        "opening_hours": "Mo 08:00-15:00; Tu-Sa 08:00-21:00; Su 09:00-14:30",
+        "outdoor_seating": "no",
+        "phone": "+1 505 795 7383",
+        "website": "https://www.sweetwatersf.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9599568,
+              35.6665821
+            ],
+            [
+              -105.9598686,
+              35.6665987
+            ],
+            [
+              -105.9598635,
+              35.666581
+            ],
+            [
+              -105.9598338,
+              35.6665866
+            ],
+            [
+              -105.959823,
+              35.6665489
+            ],
+            [
+              -105.9598297,
+              35.6665475
+            ],
+            [
+              -105.9598527,
+              35.6665435
+            ],
+            [
+              -105.9598462,
+              35.6665191
+            ],
+            [
+              -105.9598281,
+              35.6664515
+            ],
+            [
+              -105.9598228,
+              35.6664331
+            ],
+            [
+              -105.9598688,
+              35.6664245
+            ],
+            [
+              -105.9598932,
+              35.6664316
+            ],
+            [
+              -105.9599178,
+              35.6664387
+            ],
+            [
+              -105.9599377,
+              35.666512
+            ],
+            [
+              -105.9599552,
+              35.6665765
+            ],
+            [
+              -105.9599568,
+              35.6665821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475415505",
+      "properties": {
+        "@id": "way/475415505",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1851",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american;new_mexican",
+        "name": "Sunrise Family Restaraunt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9709321,
+              35.6597473
+            ],
+            [
+              -105.9708248,
+              35.6597694
+            ],
+            [
+              -105.9708142,
+              35.6597354
+            ],
+            [
+              -105.9707681,
+              35.6597458
+            ],
+            [
+              -105.9706955,
+              35.6595694
+            ],
+            [
+              -105.9707869,
+              35.6595658
+            ],
+            [
+              -105.9707945,
+              35.6595903
+            ],
+            [
+              -105.9708329,
+              35.6595824
+            ],
+            [
+              -105.9708714,
+              35.6595745
+            ],
+            [
+              -105.9708852,
+              35.6596187
+            ],
+            [
+              -105.9709198,
+              35.6596116
+            ],
+            [
+              -105.9709471,
+              35.659699
+            ],
+            [
+              -105.9709188,
+              35.6597048
+            ],
+            [
+              -105.9709321,
+              35.6597473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475714888",
+      "properties": {
+        "@id": "way/475714888",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2811",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "new_mexican",
+        "diet:local": "yes",
+        "email": "info@cafecastroSF.com",
+        "name": "Cafe Castro",
+        "opening_hours": "Tu-Su 11:00-21:00",
+        "operator": "Alma Castro",
+        "operator:wikidata": "Q122920626",
+        "phone": "+1 505 473 5800",
+        "website": "https://cafecastroSF.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9883189,
+              35.657669
+            ],
+            [
+              -105.9881444,
+              35.6577593
+            ],
+            [
+              -105.9880356,
+              35.6576212
+            ],
+            [
+              -105.9882615,
+              35.657504
+            ],
+            [
+              -105.9883189,
+              35.657669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/477369117",
+      "properties": {
+        "@id": "way/477369117",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2890",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Agua Fria Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian;pizza",
+        "drive_through": "yes",
+        "name": "Piccolino",
+        "opening_hours": "Mo-Th 10:30-20:30; Fr-Sa 10:30-21:00",
+        "phone": "+1-505-471-1480",
+        "website": "https://www.piccolinosantafe.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9959999,
+              35.6635697
+            ],
+            [
+              -105.9959093,
+              35.663615
+            ],
+            [
+              -105.9957998,
+              35.6634705
+            ],
+            [
+              -105.9958905,
+              35.6634252
+            ],
+            [
+              -105.9959999,
+              35.6635697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/478995707",
+      "properties": {
+        "@id": "way/478995707",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "821",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Canyon Road",
+        "amenity": "restaurant",
+        "cuisine": "tea;coffee_shop;pastry",
+        "name": "The Teahouse",
+        "phone": "+1-505-992-0972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9237368,
+              35.6801708
+            ],
+            [
+              -105.9236974,
+              35.680164
+            ],
+            [
+              -105.9236459,
+              35.6801536
+            ],
+            [
+              -105.9235725,
+              35.6801388
+            ],
+            [
+              -105.9235429,
+              35.6801305
+            ],
+            [
+              -105.9235397,
+              35.6801399
+            ],
+            [
+              -105.9235003,
+              35.6801325
+            ],
+            [
+              -105.9234778,
+              35.6801273
+            ],
+            [
+              -105.9234961,
+              35.6799848
+            ],
+            [
+              -105.9235064,
+              35.6799733
+            ],
+            [
+              -105.9235237,
+              35.6799695
+            ],
+            [
+              -105.9237241,
+              35.6799893
+            ],
+            [
+              -105.9237254,
+              35.6799957
+            ],
+            [
+              -105.923727,
+              35.6800038
+            ],
+            [
+              -105.9237977,
+              35.6800118
+            ],
+            [
+              -105.9237368,
+              35.6801708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479814864",
+      "properties": {
+        "@id": "way/479814864",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "3004",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Denny's",
+        "brand:wikidata": "Q1189695",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Denny's",
+        "note": "opening_hours is strange. It is listed on the website as \"6am-3am\" for some days, and 24/7 for others.",
+        "opening_hours": "24/7",
+        "phone": "+1 505-471-2152",
+        "website": "https://locations.dennys.com/NM/SANTA-FE/246213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9929962,
+              35.6542195
+            ],
+            [
+              -105.992954,
+              35.6541392
+            ],
+            [
+              -105.9928619,
+              35.6540705
+            ],
+            [
+              -105.9926836,
+              35.6541763
+            ],
+            [
+              -105.9927394,
+              35.6542689
+            ],
+            [
+              -105.9928146,
+              35.654328
+            ],
+            [
+              -105.9929962,
+              35.6542195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/484367018",
+      "properties": {
+        "@id": "way/484367018",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4220",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Airport Road",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "PC's Restaurant and Lounge",
+        "phone": "+1-505-473-7164"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0201429,
+              35.638864
+            ],
+            [
+              -106.0200351,
+              35.6388814
+            ],
+            [
+              -106.0200385,
+              35.6388956
+            ],
+            [
+              -106.0199802,
+              35.638905
+            ],
+            [
+              -106.0199726,
+              35.6388928
+            ],
+            [
+              -106.0199036,
+              35.6389059
+            ],
+            [
+              -106.0198466,
+              35.6387081
+            ],
+            [
+              -106.0198677,
+              35.6386748
+            ],
+            [
+              -106.0199534,
+              35.6386612
+            ],
+            [
+              -106.0199503,
+              35.6386484
+            ],
+            [
+              -106.0199658,
+              35.6386459
+            ],
+            [
+              -106.01996,
+              35.6386218
+            ],
+            [
+              -106.0200841,
+              35.6386021
+            ],
+            [
+              -106.0200896,
+              35.6386251
+            ],
+            [
+              -106.0201122,
+              35.6387188
+            ],
+            [
+              -106.0201284,
+              35.6387162
+            ],
+            [
+              -106.0201426,
+              35.6387751
+            ],
+            [
+              -106.0201244,
+              35.638778
+            ],
+            [
+              -106.0201271,
+              35.6387892
+            ],
+            [
+              -106.0201681,
+              35.6387826
+            ],
+            [
+              -106.020179,
+              35.6388272
+            ],
+            [
+              -106.0201356,
+              35.6388342
+            ],
+            [
+              -106.0201429,
+              35.638864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/590002421",
+      "properties": {
+        "@id": "way/590002421",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1514",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "alt_name": "Merendero Posa's",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "mexican;new_mexican;burrito",
+        "name": "Posa's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9631975,
+              35.6391606
+            ],
+            [
+              -105.9630481,
+              35.6394708
+            ],
+            [
+              -105.9628197,
+              35.6393981
+            ],
+            [
+              -105.962969,
+              35.6390879
+            ],
+            [
+              -105.9631975,
+              35.6391606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/616497963",
+      "properties": {
+        "@id": "way/616497963",
+        "addr:housenumber": "3571",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "building": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0070293,
+              35.6466454
+            ],
+            [
+              -106.0068873,
+              35.6466772
+            ],
+            [
+              -106.0068549,
+              35.6465693
+            ],
+            [
+              -106.006996,
+              35.646539
+            ],
+            [
+              -106.0070293,
+              35.6466454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/634443239",
+      "properties": {
+        "@id": "way/634443239",
+        "addr:housenumber": "1310",
+        "addr:street": "Osage Avenue",
+        "addr:unit": "B2",
+        "amenity": "restaurant",
+        "building": "no",
+        "cuisine": "mexican;new_mexican;latin_american",
+        "delivery": "no",
+        "name": "Red Enchilada",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9778593,
+              35.6630944
+            ],
+            [
+              -105.9778624,
+              35.6631033
+            ],
+            [
+              -105.9778812,
+              35.6631577
+            ],
+            [
+              -105.9778964,
+              35.6631994
+            ],
+            [
+              -105.9777293,
+              35.6632395
+            ],
+            [
+              -105.9777248,
+              35.6632271
+            ],
+            [
+              -105.9777122,
+              35.6631924
+            ],
+            [
+              -105.9776906,
+              35.6631329
+            ],
+            [
+              -105.9778593,
+              35.6630944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/646758518",
+      "properties": {
+        "@id": "way/646758518",
+        "addr:city": "Santa Fe",
+        "addr:country": "US",
+        "addr:housenumber": "1607",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Paseo de Peralta",
+        "addr:unit": "10",
+        "amenity": "restaurant",
+        "area": "yes",
+        "building": "no",
+        "building:levels": "2",
+        "check_date": "2023-06-06",
+        "cuisine": "american",
+        "microbrewery": "yes",
+        "name": "Second Street Brewery at The Railyard",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 12:00-21:00",
+        "operator": "Second Street Brewery",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://secondstreetbrewery.com/locations/railyard/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9488611,
+              35.6826246
+            ],
+            [
+              -105.9488566,
+              35.6826218
+            ],
+            [
+              -105.9487753,
+              35.6825719
+            ],
+            [
+              -105.9486764,
+              35.6825115
+            ],
+            [
+              -105.9486712,
+              35.6825083
+            ],
+            [
+              -105.9488315,
+              35.6823354
+            ],
+            [
+              -105.9490215,
+              35.6824517
+            ],
+            [
+              -105.9489945,
+              35.6824808
+            ],
+            [
+              -105.9488611,
+              35.6826246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/657497431",
+      "properties": {
+        "@id": "way/657497431",
+        "addr:housenumber": "3482",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "building": "no",
+        "cuisine": "thai",
+        "name": "Thai Cafe",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0156629,
+              35.6427989
+            ],
+            [
+              -106.0155314,
+              35.6426735
+            ],
+            [
+              -106.0154134,
+              35.6427614
+            ],
+            [
+              -106.0154656,
+              35.6428066
+            ],
+            [
+              -106.0154265,
+              35.6428307
+            ],
+            [
+              -106.0154741,
+              35.6428715
+            ],
+            [
+              -106.0155148,
+              35.6429072
+            ],
+            [
+              -106.0155554,
+              35.6428766
+            ],
+            [
+              -106.0155791,
+              35.6428595
+            ],
+            [
+              -106.015638,
+              35.6428169
+            ],
+            [
+              -106.0156629,
+              35.6427989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/657497432",
+      "properties": {
+        "@id": "way/657497432",
+        "addr:housenumber": "3482",
+        "addr:state": "NM",
+        "addr:street": "Zafarano Drive",
+        "amenity": "restaurant",
+        "building": "no",
+        "cuisine": "greek",
+        "name": "Cleopatra Cafe",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0156629,
+              35.6427989
+            ],
+            [
+              -106.0155314,
+              35.6426735
+            ],
+            [
+              -106.0156791,
+              35.6425634
+            ],
+            [
+              -106.0157826,
+              35.6426484
+            ],
+            [
+              -106.0158218,
+              35.6426832
+            ],
+            [
+              -106.0157814,
+              35.6427132
+            ],
+            [
+              -106.0157426,
+              35.6427413
+            ],
+            [
+              -106.0156867,
+              35.6427817
+            ],
+            [
+              -106.0156629,
+              35.6427989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/673282174",
+      "properties": {
+        "@id": "way/673282174",
+        "addr:housenumber": "720",
+        "addr:state": "NM",
+        "addr:street": "Saint Michaels Drive",
+        "addr:unit": "M",
+        "amenity": "restaurant",
+        "building": "no",
+        "cuisine": "sushi",
+        "name": "Kai Sushi",
+        "opening_hours": "Mo-Fr 11:30-14:30, 16:30-21:00; Sa 16:30-21:00",
+        "phone": "+1-505-438-7221",
+        "website": "https://selflane.com/bizs/kai-sushi-dining_santa-fe_nm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9613193,
+              35.6579833
+            ],
+            [
+              -105.9612439,
+              35.6579852
+            ],
+            [
+              -105.9610995,
+              35.6579888
+            ],
+            [
+              -105.9610968,
+              35.6579074
+            ],
+            [
+              -105.9613156,
+              35.6579018
+            ],
+            [
+              -105.9613193,
+              35.6579833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/681807458",
+      "properties": {
+        "@id": "way/681807458",
+        "addr:housenumber": "2860",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "A2",
+        "amenity": "restaurant",
+        "area": "yes",
+        "building": "no",
+        "cuisine": "chinese",
+        "name": "Wok",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr,Sa 11:00-21:30; Su 12:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+1-505-424-8126",
+        "website": "http://woksantafe.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9900862,
+              35.6556362
+            ],
+            [
+              -105.9899087,
+              35.6556692
+            ],
+            [
+              -105.9899697,
+              35.6557503
+            ],
+            [
+              -105.9901173,
+              35.6556771
+            ],
+            [
+              -105.9900862,
+              35.6556362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/681807459",
+      "properties": {
+        "@id": "way/681807459",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2860",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "A1",
+        "amenity": "restaurant",
+        "area": "yes",
+        "building": "no",
+        "cuisine": "new_mexican",
+        "description": "local, organic, wood oven",
+        "email": "drfieldgoods@gmail.com",
+        "name": "Dr. Field Goods Kitchen",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+1 505-471-0043",
+        "website": "https://drfieldgoods.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9899697,
+              35.6557503
+            ],
+            [
+              -105.9899895,
+              35.6557764
+            ],
+            [
+              -105.9900394,
+              35.6558428
+            ],
+            [
+              -105.9901869,
+              35.6557697
+            ],
+            [
+              -105.9901173,
+              35.6556771
+            ],
+            [
+              -105.9899697,
+              35.6557503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705359539",
+      "properties": {
+        "@id": "way/705359539",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2571",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cristos Road",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "brewery": "various",
+        "building": "yes",
+        "cuisine": "burger;steak_house;barbecue",
+        "happy_hours": "Mo-Su 16:00-18:00",
+        "name": "The Ranch House",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+        "opening_hours:note": "Thanksgiving: Closed Christmas Eve: Closing early at 8pm Christmas Day: Closed New Years Eve: Open late, until 10pm New Years Day: Closed",
+        "operator": "Josh Baum;Ann Gordon",
+        "phone": "+1-505-424-8900",
+        "reservation": "recommended",
+        "start_date": "2011-12",
+        "website": "https://theranchhousesantafe.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0233101,
+              35.631219
+            ],
+            [
+              -106.0232497,
+              35.6311144
+            ],
+            [
+              -106.0233039,
+              35.6310937
+            ],
+            [
+              -106.0232923,
+              35.6310737
+            ],
+            [
+              -106.0233775,
+              35.6310412
+            ],
+            [
+              -106.0233329,
+              35.6309639
+            ],
+            [
+              -106.0234034,
+              35.6309371
+            ],
+            [
+              -106.0233857,
+              35.6309064
+            ],
+            [
+              -106.0234456,
+              35.6308836
+            ],
+            [
+              -106.023508,
+              35.6309916
+            ],
+            [
+              -106.0235266,
+              35.6309845
+            ],
+            [
+              -106.0235657,
+              35.6310521
+            ],
+            [
+              -106.0235523,
+              35.6310573
+            ],
+            [
+              -106.0235851,
+              35.6311141
+            ],
+            [
+              -106.0233101,
+              35.631219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/726529876",
+      "properties": {
+        "@id": "way/726529876",
+        "amenity": "restaurant",
+        "landuse": "commercial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0204548,
+              35.6388824
+            ],
+            [
+              -106.0198497,
+              35.6389638
+            ],
+            [
+              -106.0198232,
+              35.6388681
+            ],
+            [
+              -106.0197259,
+              35.6384409
+            ],
+            [
+              -106.0202755,
+              35.6381028
+            ],
+            [
+              -106.0202795,
+              35.63812
+            ],
+            [
+              -106.0204358,
+              35.6387939
+            ],
+            [
+              -106.0204548,
+              35.6388824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/729362278",
+      "properties": {
+        "@id": "way/729362278",
+        "amenity": "restaurant",
+        "landuse": "commercial",
+        "name": "Josie Casa de Comida"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9338927,
+              35.6885581
+            ],
+            [
+              -105.9340577,
+              35.6886094
+            ],
+            [
+              -105.9342132,
+              35.6882925
+            ],
+            [
+              -105.9340445,
+              35.6882439
+            ],
+            [
+              -105.9338927,
+              35.6885581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/845128073",
+      "properties": {
+        "@id": "way/845128073",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1200",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Hickox Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Leo's Santa fe",
+        "old_name": "Boyd & Allister"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9594843,
+              35.680822
+            ],
+            [
+              -105.9594862,
+              35.6809051
+            ],
+            [
+              -105.9593517,
+              35.6809071
+            ],
+            [
+              -105.9593498,
+              35.680824
+            ],
+            [
+              -105.9594843,
+              35.680822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/865645588",
+      "properties": {
+        "@id": "way/865645588",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1311",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Siler Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "El Chile Toreado",
+        "opening_hours": "Tu-Fr 08:00-14:30,Sa 08:00-14:00",
+        "phone": "+1-505-430-0919",
+        "takeaway": "only",
+        "website": "https://elchiletoreado.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9910727,
+              35.6566498
+            ],
+            [
+              -105.9910518,
+              35.656662
+            ],
+            [
+              -105.9910228,
+              35.6566293
+            ],
+            [
+              -105.9910437,
+              35.6566171
+            ],
+            [
+              -105.9910727,
+              35.6566498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1007901954",
+      "properties": {
+        "@id": "way/1007901954",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "6581",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Rudy's Country Store and Bar-B-Q",
+        "brand:wikidata": "Q7377556",
+        "building": "retail",
+        "cuisine": "barbecue",
+        "name": "Rudy's Country Store and Bar-B-Q",
+        "opening_hours": "Mo-Th,Su 07:00-21:00; Fr-Sa 07:00-21:30",
+        "phone": "+1-505-395-4227",
+        "website": "https://rudysbbq.com/location/detail/santa-fe-nm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0255561,
+              35.6277157
+            ],
+            [
+              -106.0253525,
+              35.6276313
+            ],
+            [
+              -106.0253727,
+              35.6275991
+            ],
+            [
+              -106.0252229,
+              35.6275371
+            ],
+            [
+              -106.0253713,
+              35.6272993
+            ],
+            [
+              -106.0256798,
+              35.6274236
+            ],
+            [
+              -106.0255916,
+              35.6275659
+            ],
+            [
+              -106.0256372,
+              35.6275838
+            ],
+            [
+              -106.0255561,
+              35.6277157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1153371673",
+      "properties": {
+        "@id": "way/1153371673",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1965",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "Mampuku Ramen",
+        "owner": "Fukuda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9766175,
+              35.6633163
+            ],
+            [
+              -105.9766847,
+              35.6634029
+            ],
+            [
+              -105.976584,
+              35.6634541
+            ],
+            [
+              -105.9765172,
+              35.6633673
+            ],
+            [
+              -105.9766175,
+              35.6633163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1184833507",
+      "properties": {
+        "@id": "way/1184833507",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2010",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "9",
+        "amenity": "restaurant",
+        "cuisine": "caribbean;african",
+        "name": "Jambo Cafe",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "operator": "Ahmed Obo",
+        "phone": "+1 505 473 1269"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9779099,
+              35.6605121
+            ],
+            [
+              -105.9777838,
+              35.6603416
+            ],
+            [
+              -105.9779529,
+              35.6602591
+            ],
+            [
+              -105.978079,
+              35.6604295
+            ],
+            [
+              -105.9779099,
+              35.6605121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1308923096",
+      "properties": {
+        "@id": "way/1308923096",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "1101",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Paseo Corazon",
+        "addr:unit": "100",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Escondido",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9908844,
+              35.6662533
+            ],
+            [
+              -105.9906934,
+              35.6663438
+            ],
+            [
+              -105.990637,
+              35.6662654
+            ],
+            [
+              -105.990828,
+              35.6661748
+            ],
+            [
+              -105.9908844,
+              35.6662533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871642",
+      "properties": {
+        "@id": "way/1313871642",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Bo's Authentic Thai",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-17:30",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-310-5826",
+        "street_vendor": "food_truck",
+        "website": "https://www.facebook.com/bosauthenticthai/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9384993,
+              35.6812271
+            ],
+            [
+              -105.9385247,
+              35.6812406
+            ],
+            [
+              -105.9385551,
+              35.6812011
+            ],
+            [
+              -105.9385292,
+              35.6811868
+            ],
+            [
+              -105.9384993,
+              35.6812271
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871643",
+      "properties": {
+        "@id": "way/1313871643",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Encanto",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-470-2684",
+        "street_vendor": "food_truck",
+        "website": "https://il-encanto.square.site/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9385349,
+              35.6811744
+            ],
+            [
+              -105.9385655,
+              35.6811761
+            ],
+            [
+              -105.9385703,
+              35.6811188
+            ],
+            [
+              -105.9385397,
+              35.6811171
+            ],
+            [
+              -105.9385349,
+              35.6811744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871644",
+      "properties": {
+        "@id": "way/1313871644",
+        "amenity": "restaurant",
+        "name": "Santafamous Street Eats",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-269-2858",
+        "street_vendor": "food_truck"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9384943,
+              35.681048
+            ],
+            [
+              -105.9384757,
+              35.6810648
+            ],
+            [
+              -105.9385258,
+              35.6811014
+            ],
+            [
+              -105.9385444,
+              35.6810846
+            ],
+            [
+              -105.9384943,
+              35.681048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871645",
+      "properties": {
+        "@id": "way/1313871645",
+        "amenity": "restaurant",
+        "cuisine": "mexican;breakfast;ramen;salad",
+        "name": "Fusion Tacos",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-316-2583",
+        "website": "https://fusiontacosnm.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9383484,
+              35.6810783
+            ],
+            [
+              -105.9384288,
+              35.6810797
+            ],
+            [
+              -105.9384296,
+              35.6810483
+            ],
+            [
+              -105.9383492,
+              35.6810469
+            ],
+            [
+              -105.9383484,
+              35.6810783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313871647",
+      "properties": {
+        "@id": "way/1313871647",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "Santa Fe Barbeque",
+        "opening_hours": "Tu-Sa 11:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-505-603-9051",
+        "street_vendor": "food_truck",
+        "website": "https://www.santafebbq.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.938136,
+              35.6810832
+            ],
+            [
+              -105.9382028,
+              35.68108
+            ],
+            [
+              -105.9382009,
+              35.6810538
+            ],
+            [
+              -105.9381341,
+              35.681057
+            ],
+            [
+              -105.938136,
+              35.6810832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1452019782",
+      "properties": {
+        "@id": "way/1452019782",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "238",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "North Guadalupe Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "asian;chinese;korean",
+        "name": "Chopstix",
+        "phone": "+1-505-820-2126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9448188,
+              35.6903694
+            ],
+            [
+              -105.9448271,
+              35.6903627
+            ],
+            [
+              -105.9449939,
+              35.6903648
+            ],
+            [
+              -105.9449923,
+              35.6904412
+            ],
+            [
+              -105.9449234,
+              35.6904403
+            ],
+            [
+              -105.9449233,
+              35.6904444
+            ],
+            [
+              -105.9448986,
+              35.6904441
+            ],
+            [
+              -105.9448362,
+              35.690399
+            ],
+            [
+              -105.9448181,
+              35.6903987
+            ],
+            [
+              -105.9448188,
+              35.6903694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1453634950",
+      "properties": {
+        "@id": "way/1453634950",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "4399",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "amenity": "restaurant",
+        "brand": "Texas Roadhouse",
+        "brand:wikidata": "Q7707945",
+        "building": "yes",
+        "cuisine": "steak_house",
+        "name": "Texas Roadhouse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0239075,
+              35.630207
+            ],
+            [
+              -106.0235186,
+              35.6300725
+            ],
+            [
+              -106.0234028,
+              35.6302937
+            ],
+            [
+              -106.0237917,
+              35.6304281
+            ],
+            [
+              -106.0239075,
+              35.630207
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

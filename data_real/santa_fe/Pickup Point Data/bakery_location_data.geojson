@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/473673732", "building": "yes", "name": "Dolina Santa Fe", "shop": "bakery", "GEOID": "35049000300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -105.9463329, 35.6915165 ], [ -105.9462722, 35.6915398 ], [ -105.9462595, 35.691518 ], [ -105.9461125, 35.6915744 ], [ -105.9460696, 35.6915005 ], [ -105.9462773, 35.6914209 ], [ -105.9463034, 35.6914657 ], [ -105.9463329, 35.6915165 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/486208137", "building": "yes", "name": null, "shop": "bakery", "GEOID": "35049001202" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -105.9942259, 35.6604828 ], [ -105.9940907, 35.6605645 ], [ -105.993884, 35.6603397 ], [ -105.9940192, 35.660258 ], [ -105.9942259, 35.6604828 ] ] ] } }
+]
+}

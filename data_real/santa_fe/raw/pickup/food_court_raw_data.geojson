@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/10163924425",
+      "properties": {
+        "@id": "node/10163924425",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "2801",
+        "addr:postcode": "87507",
+        "addr:state": "NM",
+        "addr:street": "Rodeo Road",
+        "addr:unit": "B7",
+        "amenity": "food_court",
+        "building": "no",
+        "description": "The Life Bar, Snacking Panda and Dre Days Shaved Ice",
+        "name": "The Spot",
+        "note": "The Life Bar, Snacking Panda and Dre Days Shaved Ice",
+        "old_name": "Hair Affair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9836644,
+              35.6392453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10178487648",
+      "properties": {
+        "@id": "node/10178487648",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "505",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "Cerrillos Road",
+        "addr:unit": "B101",
+        "amenity": "food_court",
+        "name": "Chomp",
+        "website": "https://www.chompsantafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -105.9450535,
+              35.6822669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461776265",
+      "properties": {
+        "@id": "way/461776265",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "326",
+        "addr:postcode": "87501",
+        "addr:state": "NM",
+        "addr:street": "South Guadalupe Street",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "Capital Coal Neighborhood Eatery",
+        "opening_hours": "We-Sa 11:00-20:00, Su 11:00-18:00",
+        "phone": "+1-505-772-0192",
+        "website": "https://www.capitalcoalneighborhoodeatery.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9459128,
+              35.6856318
+            ],
+            [
+              -105.9458706,
+              35.6856449
+            ],
+            [
+              -105.9457957,
+              35.6856206
+            ],
+            [
+              -105.9457641,
+              35.6855705
+            ],
+            [
+              -105.9455387,
+              35.6855161
+            ],
+            [
+              -105.9455754,
+              35.6854156
+            ],
+            [
+              -105.9457763,
+              35.6854641
+            ],
+            [
+              -105.9458309,
+              35.6854301
+            ],
+            [
+              -105.9459582,
+              35.6854595
+            ],
+            [
+              -105.9459283,
+              35.6855447
+            ],
+            [
+              -105.945948,
+              35.6855492
+            ],
+            [
+              -105.9459353,
+              35.6855855
+            ],
+            [
+              -105.9459173,
+              35.6856044
+            ],
+            [
+              -105.9459128,
+              35.6856318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705613742",
+      "properties": {
+        "@id": "way/705613742",
+        "addr:city": "Santa Fe",
+        "addr:state": "NM",
+        "amenity": "food_court",
+        "building:part": "yes",
+        "name": "The Market at Santa Fe Place",
+        "old_name": "El Mercado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.0137908,
+              35.6359676
+            ],
+            [
+              -106.0132692,
+              35.6359672
+            ],
+            [
+              -106.0132696,
+              35.6355578
+            ],
+            [
+              -106.0137913,
+              35.6355582
+            ],
+            [
+              -106.0137908,
+              35.6359676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/796694133",
+      "properties": {
+        "@id": "way/796694133",
+        "amenity": "food_court",
+        "building": "yes",
+        "food_court": "food_truck"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9905545,
+              35.6554672
+            ],
+            [
+              -105.9905294,
+              35.6554728
+            ],
+            [
+              -105.990553,
+              35.6555436
+            ],
+            [
+              -105.9905781,
+              35.6555381
+            ],
+            [
+              -105.9905545,
+              35.6554672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1272976787",
+      "properties": {
+        "@id": "way/1272976787",
+        "addr:city": "Santa Fe",
+        "addr:housenumber": "502",
+        "addr:postcode": "87505",
+        "addr:state": "NM",
+        "addr:street": "Old Santa Fe Trail",
+        "amenity": "food_court",
+        "building": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.9386081,
+              35.6810277
+            ],
+            [
+              -105.9385973,
+              35.6810733
+            ],
+            [
+              -105.9386086,
+              35.6810756
+            ],
+            [
+              -105.9385864,
+              35.6812605
+            ],
+            [
+              -105.9385149,
+              35.6812548
+            ],
+            [
+              -105.9384383,
+              35.6812488
+            ],
+            [
+              -105.938409,
+              35.6812465
+            ],
+            [
+              -105.9384026,
+              35.6811631
+            ],
+            [
+              -105.9380636,
+              35.681176
+            ],
+            [
+              -105.9380297,
+              35.6810561
+            ],
+            [
+              -105.938149,
+              35.6810427
+            ],
+            [
+              -105.9381986,
+              35.681036
+            ],
+            [
+              -105.9384371,
+              35.6810303
+            ],
+            [
+              -105.9384704,
+              35.6810315
+            ],
+            [
+              -105.9386081,
+              35.6810277
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

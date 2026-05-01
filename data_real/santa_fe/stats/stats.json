@@ -1,0 +1,81 @@
+{
+    "city_name": "Santa Fe",
+    "state_name": "New Mexico",
+    "total_pickup_locations": 126,
+    "total_dropoff_locations": 5038,
+    "total_census_tracts": 30,
+    "total_empty_tracts": 0,
+    "optimal_edge_threshold_km": 4,
+    "thresholds": {
+        "none": {
+            "nodes": 30,
+            "edges": 435,
+            "components": 1
+        },
+        "15": {
+            "nodes": 30,
+            "edges": 433,
+            "components": 1
+        },
+        "14": {
+            "nodes": 30,
+            "edges": 430,
+            "components": 1
+        },
+        "13": {
+            "nodes": 30,
+            "edges": 422,
+            "components": 1
+        },
+        "12": {
+            "nodes": 30,
+            "edges": 407,
+            "components": 1
+        },
+        "11": {
+            "nodes": 30,
+            "edges": 390,
+            "components": 1
+        },
+        "10": {
+            "nodes": 30,
+            "edges": 369,
+            "components": 1
+        },
+        "9": {
+            "nodes": 30,
+            "edges": 342,
+            "components": 1
+        },
+        "8": {
+            "nodes": 30,
+            "edges": 318,
+            "components": 1
+        },
+        "7": {
+            "nodes": 30,
+            "edges": 283,
+            "components": 1
+        },
+        "6": {
+            "nodes": 30,
+            "edges": 246,
+            "components": 1
+        },
+        "5": {
+            "nodes": 30,
+            "edges": 203,
+            "components": 1
+        },
+        "4": {
+            "nodes": 30,
+            "edges": 155,
+            "components": 1
+        },
+        "3": {
+            "nodes": 30,
+            "edges": 102,
+            "components": 2
+        }
+    }
+}
